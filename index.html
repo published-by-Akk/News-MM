@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
     <title>News · MM</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Fonts: Product Sans (English) & Z06-Walone (Burmese) -->
+    <!-- Fonts: Product Sans (English) & YatiRound (Burmese) -->
     <style>
         /* Product Sans family – all weights */
         @font-face {
@@ -83,14 +83,14 @@
 
         /* Z06-Walone Regular for Burmese */
         @font-face {
-            font-family: 'Z06-Walone';
-            src: url('fonts/Z06-Walone Regular.ttf') format('truetype');
+            font-family: 'YatiRound';
+            src: url('fonts/YatiRound-ExtraBold.ttf') format('truetype');
             font-weight: 400;
             font-style: normal;
         }
 
         body {
-            font-family: 'Product Sans', 'Z06-Walone', 'Inter', sans-serif;
+            font-family: 'Product Sans', 'YatiRound', 'Inter', sans-serif;
             color: white;
             margin: 0;
             padding: 0;
@@ -133,7 +133,7 @@
         }
 
         .header-serif {
-            font-family: 'Product Sans', 'Z06-Walone', serif;
+            font-family: 'Product Sans', 'YatiRound', serif;
             font-weight: 700;
         }
 
@@ -634,7 +634,7 @@
             <div class="flex justify-between items-start">
                 <div>
                     <p class="text-[10px] uppercase tracking-wider text-white/60">${formatPublishedDate(v.published)}</p>
-                    <h3 class="font-bold text-sm text-white">${v.title}</h3>
+                    <h3 class="font-bold text-xl text-white">${v.title}</h3>
                     <p class="text-[10px] text-white/50 mt-1">${v.channel}</p>
                 </div>
                 <span class="text-[10px] text-white/60 whitespace-nowrap ml-2">${formatPublishedTimeTo12h(v.published)}</span>
