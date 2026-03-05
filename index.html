@@ -4,6 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
     <title>News · MM</title>
+
+        <!-- PWA / Manifest - INSERT HERE -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#ff0000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="apple-touch-icon" href="icon.png">
+
+    <link rel="icon" type="image/png" href="icon.png">
+<link rel="apple-touch-icon" href="icon.png">
+<meta name="msapplication-TileImage" content="icon.png">
+
+
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Fonts: Product Sans (English) & YatiRound (Burmese) -->
     <style>
@@ -744,6 +756,18 @@
         loadVideos();
         showPage('news'); // default page
     });
+
+
+      // Registers the Service Worker to make the app installable
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js')
+        .then(reg => console.log('Service Worker Registered'))
+        .catch(err => console.log('Service Worker Failed', err));
+    });
+  }
+
+
 </script>
 
 <!-- Note: Python script now creates videos.json and all_history.json (archive) -->
