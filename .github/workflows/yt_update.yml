@@ -2,15 +2,15 @@ name: Update YouTube News
 
 on:
   schedule:
-    # This runs every 15 minutes
+    # Runs every 15 minutes
     - cron: '*/15 * * * *'
-  workflow_dispatch: # This lets you run it manually to test
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Crucial: Allows the bot to save your JSON file
+      contents: write   # Required to commit back to the repo
 
     steps:
       - name: Checkout repository
@@ -28,11 +28,12 @@ jobs:
       - name: Run fetch script
         run: python fetch_yt-news.py
 
-      - name: Commit and Push changes
+      - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
-          git add videos.json
-          # Only commit if there are actually changes to the file
+          # Add both the display file and the archive
+          git add videos.json all_history.json
+          # Only commit if there are changes (exit 0 prevents error when nothing changed)
           git commit -m "Automated update: $(date)" || exit 0
           git push
