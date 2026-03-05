@@ -242,6 +242,13 @@
         .back-btn:hover {
             background: rgba(255,255,255,0.2);
         }
+
+        /* ========== PERFORMANCE BOOST ========== */
+        .video-card {
+            content-visibility: auto;
+            contain-intrinsic-size: 100px 280px; /* rough height of card */
+        }
+        /* ======================================= */
     </style>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <script src="https://unpkg.com/lucide@latest"></script>
@@ -282,6 +289,10 @@
         <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- dynamic video cards -->
         </div>
+        <!-- Load More for News -->
+        <div id="news-load-more" class="flex justify-center mt-4 hidden">
+            <button class="glass px-6 py-2 rounded-full text-sm font-semibold hover:bg-white/20 transition">Load More</button>
+        </div>
     </section>
 
     <!-- SECTION: STUDIES (Mratt Channel only) -->
@@ -295,6 +306,10 @@
         </div>
         <div id="studies-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- will be populated with Mratt Channel videos -->
+        </div>
+        <!-- Load More for Studies -->
+        <div id="studies-load-more" class="flex justify-center mt-4 hidden">
+            <button class="glass px-6 py-2 rounded-full text-sm font-semibold hover:bg-white/20 transition">Load More</button>
         </div>
     </section>
 
@@ -323,6 +338,10 @@
         <div id="dateview-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <!-- videos for selected date -->
         </div>
+        <!-- Load More for Date View -->
+        <div id="dateview-load-more" class="flex justify-center mt-4 hidden">
+            <button class="glass px-6 py-2 rounded-full text-sm font-semibold hover:bg-white/20 transition">Load More</button>
+        </div>
     </section>
 </main>
 
@@ -342,26 +361,67 @@
 </div>
 
 <script>
-    // ---------- DATA (fetch from videos.json) ----------
-    let videosData = [];
+    // ---------- GLOBAL VARIABLES ----------
+    let videosData = [];                   // full dataset
+    const CACHE_KEY = 'news_cache';
+    const ITEMS_PER_PAGE = 12;             // cards per load
 
+    // Pagination state for each grid
+    let newsDisplayCount = ITEMS_PER_PAGE;
+    let studiesDisplayCount = ITEMS_PER_PAGE;
+    let dateviewDisplayCount = ITEMS_PER_PAGE;
+
+    // Current filtered data for each grid (to know total length)
+    let currentNewsFiltered = [];
+    let currentStudiesFiltered = [];
+    let currentDateviewFiltered = [];
+
+    // Current date for News page
+    let currentNewsDate = getMyanmarDateStr();
+
+    // ---------- DATA LOADING WITH CACHE ----------
     async function loadVideos() {
+        // Try to load from cache first
+        const cached = localStorage.getItem(CACHE_KEY);
+        if (cached) {
+            try {
+                videosData = JSON.parse(cached);
+                // Initial render using cached data
+                afterDataLoaded();
+            } catch (e) {
+                console.warn('Cache parse error, fetching fresh');
+            }
+        }
+
+        // Always fetch fresh data in background
         try {
             const response = await fetch('videos.json');
             if (!response.ok) throw new Error(`HTTP ${response.status}`);
-            videosData = await response.json();
-            // After data is loaded, initialize the app
-            populateChannelFilter();
-            renderNews();
-            renderStudies();
-            renderDatabase();
-            lucide.createIcons();
-            updateClock();
-            showPage('news');
+            const freshData = await response.json();
+            
+            // Update if data changed (string comparison is simple)
+            if (JSON.stringify(freshData) !== JSON.stringify(videosData)) {
+                videosData = freshData;
+                localStorage.setItem(CACHE_KEY, JSON.stringify(freshData));
+                afterDataLoaded(); // re-render with new data
+            }
         } catch (error) {
-            console.error('Failed to load videos:', error);
-            document.getElementById('news-grid').innerHTML = '<div class="glass p-8 text-center col-span-3">Could not load videos.json. Make sure the file exists.</div>';
+            console.error('Failed to load videos from network:', error);
+            // If we have no cache at all, show error
+            if (!cached) {
+                document.getElementById('news-grid').innerHTML = '<div class="glass p-8 text-center col-span-3">Could not load videos.json. Make sure the file exists.</div>';
+            }
         }
+    }
+
+    function afterDataLoaded() {
+        populateChannelFilter();
+        renderNews(true);   // reset pagination
+        renderStudies(true);
+        renderDatabase();
+        // Do not auto-show page here; we want to stay on current page
+        // But if it's first load, show news (handled in load event)
+        lucide.createIcons();
     }
 
     // ---------- helper: convert published datetime to Myanmar time (UTC+6:30) ----------
@@ -435,10 +495,10 @@
         });
     }
 
-    // ---------- News (home) with current date ----------
-    let currentNewsDate = getMyanmarDateStr();
+    // ---------- RENDER FUNCTIONS WITH PAGINATION ----------
+    function renderNews(resetPagination = false) {
+        if (resetPagination) newsDisplayCount = ITEMS_PER_PAGE;
 
-    function renderNews() {
         let channel = document.getElementById('channel-filter').value;
         let filtered = videosData.filter(v => {
             let vMyanmarDate = formatPublishedDate(v.published); // DD/MM/YYYY
@@ -448,28 +508,54 @@
         });
         if (channel !== 'ALL') filtered = filtered.filter(v => v.channel === channel);
         
+        // Store filtered list for load more
+        currentNewsFiltered = filtered;
+
         let grid = document.getElementById('news-grid');
         grid.innerHTML = '';
-        filtered.forEach(v => grid.appendChild(createVideoCard(v)));
+        const toShow = filtered.slice(0, newsDisplayCount);
+        toShow.forEach(v => grid.appendChild(createVideoCard(v)));
+
+        // Show/hide load more button
+        const loadMoreDiv = document.getElementById('news-load-more');
+        if (filtered.length > newsDisplayCount) {
+            loadMoreDiv.classList.remove('hidden');
+        } else {
+            loadMoreDiv.classList.add('hidden');
+        }
+
         lucide.createIcons();
         attachVideoClick();
     }
 
-    // ---------- Studies ----------
-    function renderStudies() {
+    function renderStudies(resetPagination = false) {
+        if (resetPagination) studiesDisplayCount = ITEMS_PER_PAGE;
+
         let mrattVideos = videosData.filter(v => v.channel_id === 'UCfi9cXgZK2YXPAqyyf4mAPg');
+        currentStudiesFiltered = mrattVideos;
+
         let grid = document.getElementById('studies-grid');
         grid.innerHTML = '';
         if (mrattVideos.length === 0) {
             grid.innerHTML = '<div class="glass p-8 text-center col-span-3">No videos from Mratt Channel found.</div>';
+            document.getElementById('studies-load-more').classList.add('hidden');
             return;
         }
-        mrattVideos.forEach(v => grid.appendChild(createVideoCard(v)));
+
+        const toShow = mrattVideos.slice(0, studiesDisplayCount);
+        toShow.forEach(v => grid.appendChild(createVideoCard(v)));
+
+        const loadMoreDiv = document.getElementById('studies-load-more');
+        if (mrattVideos.length > studiesDisplayCount) {
+            loadMoreDiv.classList.remove('hidden');
+        } else {
+            loadMoreDiv.classList.add('hidden');
+        }
+
         lucide.createIcons();
         attachVideoClick();
     }
 
-    // ---------- Database (clickable) ----------
     function renderDatabase() {
         let groups = {};
         videosData.forEach(v => {
@@ -504,17 +590,30 @@
 
     // ---------- Date View ----------
     function showDateView(dateString) { // dateString in DD/MM/YYYY
-        // Convert to YYYY-MM-DD for filtering
+        // Convert to YYYY-MM-DD for filtering (not strictly needed, but keep)
         let [d, m, y] = dateString.split('/');
         let filterDate = `${y}-${m}-${d}`;
         let filtered = videosData.filter(v => {
             let vDate = formatPublishedDate(v.published);
             return vDate === dateString;
         });
+        currentDateviewFiltered = filtered;
+        dateviewDisplayCount = ITEMS_PER_PAGE; // reset pagination
+
         let grid = document.getElementById('dateview-grid');
         grid.innerHTML = '';
-        filtered.forEach(v => grid.appendChild(createVideoCard(v)));
+        const toShow = filtered.slice(0, dateviewDisplayCount);
+        toShow.forEach(v => grid.appendChild(createVideoCard(v)));
+
         document.getElementById('dateview-title').innerText = dateString;
+
+        const loadMoreDiv = document.getElementById('dateview-load-more');
+        if (filtered.length > dateviewDisplayCount) {
+            loadMoreDiv.classList.remove('hidden');
+        } else {
+            loadMoreDiv.classList.add('hidden');
+        }
+
         lucide.createIcons();
         attachVideoClick();
         showPage('dateview');
@@ -544,7 +643,7 @@
         return card;
     }
 
-    // ---------- Event listeners ----------
+    // ---------- Event listeners for filters and pagination ----------
     document.getElementById('yesterday-btn').addEventListener('click', ()=>{
         let today = getMyanmarTime();
         today.setDate(today.getDate() - 1);
@@ -552,13 +651,40 @@
         let month = (today.getMonth()+1).toString().padStart(2,'0');
         let day = today.getDate().toString().padStart(2,'0');
         currentNewsDate = `${year}-${month}-${day}`;
-        renderNews();
+        renderNews(true); // reset pagination
     });
     document.getElementById('today-btn').addEventListener('click', ()=>{
         currentNewsDate = getMyanmarDateStr();
-        renderNews();
+        renderNews(true);
     });
-    document.getElementById('channel-filter').addEventListener('change', renderNews);
+    document.getElementById('channel-filter').addEventListener('change', () => renderNews(true));
+
+    // Load More buttons
+    document.querySelector('#news-load-more button').addEventListener('click', () => {
+        newsDisplayCount += ITEMS_PER_PAGE;
+        renderNews(false);
+    });
+    document.querySelector('#studies-load-more button').addEventListener('click', () => {
+        studiesDisplayCount += ITEMS_PER_PAGE;
+        renderStudies(false);
+    });
+    document.querySelector('#dateview-load-more button').addEventListener('click', () => {
+        dateviewDisplayCount += ITEMS_PER_PAGE;
+        // re-render date view with current filtered list
+        let grid = document.getElementById('dateview-grid');
+        const toShow = currentDateviewFiltered.slice(0, dateviewDisplayCount);
+        grid.innerHTML = '';
+        toShow.forEach(v => grid.appendChild(createVideoCard(v)));
+        // update load more visibility
+        const loadMoreDiv = document.getElementById('dateview-load-more');
+        if (currentDateviewFiltered.length > dateviewDisplayCount) {
+            loadMoreDiv.classList.remove('hidden');
+        } else {
+            loadMoreDiv.classList.add('hidden');
+        }
+        lucide.createIcons();
+        attachVideoClick();
+    });
 
     // ---------- video modal ----------
     function openModal(videoId) {
@@ -585,8 +711,8 @@
         document.querySelectorAll('.page').forEach(p => p.classList.add('hidden'));
         document.getElementById(`section-${pageId}`).classList.remove('hidden');
         if (pageId === 'database') renderDatabase();
-        if (pageId === 'news') renderNews();
-        if (pageId === 'studies') renderStudies();
+        if (pageId === 'news') renderNews(true);
+        if (pageId === 'studies') renderStudies(true);
         // refresh icons after page change
         lucide.createIcons();
     }
@@ -616,18 +742,10 @@
         lucide.createIcons();
         updateClock();
         loadVideos();
+        showPage('news'); // default page
     });
 </script>
 
-<!-- Additional note about Python script (for reference) -->
-<!-- 
-    Q: Does the Python script overwrite old posts?
-    A: As currently implemented, it likely overwrites the entire videos.json file each run.
-       To preserve history, modify the script to:
-       - Fetch new videos and merge with existing JSON (avoiding duplicates by video_id).
-       - Or store files with timestamps (e.g., videos_20260306.json) and have the app load multiple.
-       This would prevent data loss.
--->
+<!-- Note: Python script now creates videos.json and all_history.json (archive) -->
 </body>
-
 </html>
