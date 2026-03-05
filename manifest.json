@@ -1,11 +1,11 @@
 {
   "name": "YouTube Myanmar News",
-  "short_name": "NewsMM",
+  "short_name": "News MM",
   "description": "Live automated news feed from top Myanmar YouTube channels.",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ff0000",
+  "theme_color": "#0B1120",
   "orientation": "portrait",
   "icons": [
     {
@@ -20,4 +20,5 @@
       "type": "image/png"
     }
   ]
+
 }
