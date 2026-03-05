@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+    <title>Pro News · Yangon time</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Fonts: Product Sans (English) & Z06-Walone (Burmese) -->
+    <style>
+        /* Product Sans family – all weights */
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-Thin.ttf') format('truetype');
+            font-weight: 100;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-ThinItalic.ttf') format('truetype');
+            font-weight: 100;
+            font-style: italic;
+        }
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-Light.ttf') format('truetype');
+            font-weight: 300;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-LightItalic.ttf') format('truetype');
+            font-weight: 300;
+            font-style: italic;
+        }
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-Italic.ttf') format('truetype');
+            font-weight: 400;
+            font-style: italic;
+        }
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-Medium.ttf') format('truetype');
+            font-weight: 500;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-MediumItalic.ttf') format('truetype');
+            font-weight: 500;
+            font-style: italic;
+        }
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-Bold.ttf') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-BoldItalic.ttf') format('truetype');
+            font-weight: 700;
+            font-style: italic;
+        }
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-Black.ttf') format('truetype');
+            font-weight: 900;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Product Sans';
+            src: url('fonts/ProductSans-Full/ProductSans-BlackItalic.ttf') format('truetype');
+            font-weight: 900;
+            font-style: italic;
+        }
+
+        /* Z06-Walone Regular for Burmese */
+        @font-face {
+            font-family: 'Z06-Walone';
+            src: url('fonts/Z06-Walone Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        body {
+            font-family: 'Product Sans', 'Z06-Walone', 'Inter', sans-serif;
+            color: white;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            background: linear-gradient(145deg, #0B1120 0%, #192132 100%);
+        }
+
+        /* custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 10px;
+            height: 10px;
+        }
+        ::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+            border: 2px solid transparent;
+            background-clip: padding-box;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: rgba(255, 255, 255, 0.3);
+            background-clip: padding-box;
+        }
+        /* Firefox */
+        * {
+            scrollbar-width: thin;
+            scrollbar-color: rgba(255, 255, 255, 0.2) rgba(255, 255, 255, 0.05);
+        }
+
+        .glass {
+            background: rgba(20, 30, 50, 0.6);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 24px;
+            color: white;
+        }
+
+        .header-serif {
+            font-family: 'Product Sans', 'Z06-Walone', serif;
+            font-weight: 700;
+        }
+
+        .card-active:active {
+            transform: scale(0.96);
+            transition: transform 0.1s ease;
+        }
+
+        /* elegant dark background */
+        .static-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: linear-gradient(145deg, #0B1120 0%, #192132 100%);
+            z-index: -2;
+        }
+
+        /* subtle noise texture */
+        .static-bg::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMzAwIj48ZmlsdGVyIGlkPSJmIj48ZmVUdXJidWxlbmNlIHR5cGU9ImZyYWN0YWxOb2lzZSIgYmFzZUZyZXF1ZW5jeT0iLjc0IiBudW1PY3RhdmVzPSIzIiAvPjwvZmlsdGVyPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbHRlcj0idXJsKCNmKSIgb3BhY2l0eT0iMC4wNCIgLz48L3N2Zz4=');
+            opacity: 0.3;
+            pointer-events: none;
+        }
+
+        /* modal for video */
+        .video-modal {
+            position: fixed; inset: 0; background: rgba(0,0,0,0.95); z-index: 1000;
+            display: none; align-items: center; justify-content: center;
+        }
+        .video-modal.active { display: flex; }
+        .modal-content {
+            width: 90%;
+            max-width: 800px;
+            aspect-ratio: 16/9;
+        }
+        .modal-content iframe {
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+
+        /* override tailwind text colors */
+        .text-slate-900, .text-slate-500, .text-slate-400, .opacity-60, .opacity-70 {
+            color: rgba(255,255,255,0.9) !important;
+        }
+        .bg-slate-200\/50 {
+            background: rgba(255,255,255,0.1) !important;
+        }
+        select option {
+            background: #1e293b;
+            color: white;
+        }
+
+        /* mobile tweaks */
+        @media (max-width: 640px) {
+            .flex.gap-2 {
+                flex-wrap: wrap;
+                justify-content: flex-end;
+            }
+            #channel-filter {
+                max-width: 140px;
+                text-overflow: ellipsis;
+            }
+            #live-clock {
+                font-size: 2rem;
+                white-space: nowrap;
+            }
+            .page .flex.justify-between {
+                flex-wrap: wrap;
+                gap: 0.5rem;
+            }
+        }
+
+        /* Transition for the bottom nav */
+        nav.lg\:hidden {
+            transition: transform 0.3s ease, opacity 0.3s ease;
+        }
+
+        /* Class to hide the nav */
+        .nav-hidden {
+            transform: translate(-50%, 150%) !important;
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        /* back button in date view */
+        .back-btn {
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            background: rgba(255,255,255,0.1);
+            padding: 4px 12px;
+            border-radius: 40px;
+            font-size: 0.8rem;
+            transition: background 0.2s;
+        }
+        .back-btn:hover {
+            background: rgba(255,255,255,0.2);
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body class="min-h-screen">
+
+<!-- static background -->
+<div class="static-bg"></div>
+
+<!-- DESKTOP HEADER (3 tabs) -->
+<header class="hidden lg:flex fixed top-0 w-full z-50 p-6 justify-center">
+    <nav class="glass px-8 py-3 flex items-center gap-8 shadow-xl">
+        <button class="nav-btn flex items-center gap-2 hover:text-blue-300 transition" data-page="news"><i data-lucide="flag" class="w-5 h-5"></i> News</button>
+        <button class="nav-btn flex items-center gap-2 hover:text-blue-300 transition" data-page="studies"><i data-lucide="book-open" class="w-5 h-5"></i> Studies</button>
+        <button class="nav-btn flex items-center gap-2 hover:text-blue-300 transition" data-page="database"><i data-lucide="newspaper" class="w-5 h-5"></i> Database</button>
+    </nav>
+</header>
+
+<!-- MAIN CONTENT -->
+<main class="max-w-7xl mx-auto p-4 lg:pt-32 space-y-12">
+
+    <!-- SECTION: NEWS (home) -->
+    <section id="section-news" class="space-y-6 page">
+        <div class="flex justify-between items-end px-2">
+            <div>
+                <h2 class="header-serif text-4xl text-white" id="live-clock">--:--</h2>
+                <p class="text-sm text-white/70" id="live-date">--/--/---- • ---</p>
+            </div>
+            <div class="flex gap-2 items-center">
+                <button id="today-btn" class="bg-teal-500 text-white px-4 py-1 rounded-full text-xs font-semibold whitespace-nowrap">Today</button>
+                <button id="yesterday-btn" class="glass px-4 py-1 rounded-full text-xs font-semibold whitespace-nowrap">Yesterday</button>
+                <select id="channel-filter" class="glass text-xs px-3 py-1 outline-none text-white max-w-[150px] truncate">
+                    <option value="ALL">All channels</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- dynamic video cards -->
+        </div>
+    </section>
+
+    <!-- SECTION: STUDIES (Mratt Channel only) -->
+    <section id="section-studies" class="space-y-6 page hidden">
+        <div class="flex justify-between items-end px-2">
+            <h2 class="header-serif text-4xl text-white">Studies</h2>
+            <div class="glass flex p-1 rounded-full gap-1">
+                <button class="px-4 py-1 rounded-full text-xs bg-white/20">Geo Political</button>
+                <button class="px-4 py-1 rounded-full text-xs">Last</button>
+            </div>
+        </div>
+        <div id="studies-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- will be populated with Mratt Channel videos -->
+        </div>
+    </section>
+
+    <!-- SECTION: DATABASE (news in last days) -->
+    <section id="section-database" class="space-y-6 page hidden">
+        <div class="px-2">
+            <h2 class="header-serif text-4xl text-white">News in Last Days</h2>
+            <span class="text-xs glass px-3 py-1 mt-2 inline-block">Database</span>
+        </div>
+        <div id="database-list" class="space-y-3">
+            <!-- dynamic date rows with counts - clickable -->
+        </div>
+    </section>
+
+    <!-- SECTION: DATE VIEW (shows videos for a specific date) -->
+    <section id="section-dateview" class="space-y-6 page hidden">
+        <div class="flex justify-between items-center px-2">
+            <div class="flex items-center gap-4">
+                <span class="back-btn" onclick="showPage('database')">
+                    <i data-lucide="arrow-left" class="w-4 h-4"></i> Back
+                </span>
+                <h2 class="header-serif text-3xl text-white" id="dateview-title">--/--/----</h2>
+            </div>
+            <!-- no filters, just date -->
+        </div>
+        <div id="dateview-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- videos for selected date -->
+        </div>
+    </section>
+</main>
+
+<!-- MOBILE BOTTOM NAV (3 tabs) -->
+<nav class="lg:hidden fixed bottom-6 left-1/2 -translate-x-1/2 w-[90%] glass flex justify-around p-4 shadow-2xl z-50">
+    <button class="nav-btn text-white p-2" data-page="news"><i data-lucide="flag"></i></button>
+    <button class="nav-btn text-white/70 p-2" data-page="studies"><i data-lucide="book-open"></i></button>
+    <button class="nav-btn text-white/70 p-2" data-page="database"><i data-lucide="newspaper"></i></button>
+</nav>
+
+<!-- VIDEO MODAL (YouTube embed) -->
+<div id="videoModal" class="video-modal">
+    <div class="modal-content">
+        <iframe id="youtubeIframe" allowfullscreen></iframe>
+    </div>
+    <button class="absolute top-4 right-4 text-white text-4xl" onclick="closeModal()">&times;</button>
+</div>
+
+<script>
+    // ---------- DATA (fetch from videos.json) ----------
+    let videosData = [];
+
+    async function loadVideos() {
+        try {
+            const response = await fetch('videos.json');
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            videosData = await response.json();
+            // After data is loaded, initialize the app
+            populateChannelFilter();
+            renderNews();
+            renderStudies();
+            renderDatabase();
+            lucide.createIcons();
+            updateClock();
+            showPage('news');
+        } catch (error) {
+            console.error('Failed to load videos:', error);
+            document.getElementById('news-grid').innerHTML = '<div class="glass p-8 text-center col-span-3">Could not load videos.json. Make sure the file exists.</div>';
+        }
+    }
+
+    // ---------- helper: convert published datetime to Myanmar time (UTC+6:30) ----------
+    function parseAndConvertToMyanmarTime(publishedStr) {
+        let d = new Date(publishedStr);
+        let utc = d.getTime() + (d.getTimezoneOffset() * 60000);
+        let myanmarTime = new Date(utc + (6.5 * 3600000));
+        return myanmarTime;
+    }
+
+    function formatPublishedTimeTo12h(publishedStr) {
+        if (!publishedStr) return '';
+        let myanmarDate = parseAndConvertToMyanmarTime(publishedStr);
+        let hours = myanmarDate.getHours();
+        let minutes = myanmarDate.getMinutes().toString().padStart(2, '0');
+        let ampm = hours >= 12 ? 'PM' : 'AM';
+        hours = hours % 12 || 12;
+        return `${hours}:${minutes} ${ampm}`;
+    }
+
+    function formatPublishedDate(publishedStr) {
+        if (!publishedStr) return '';
+        let myanmarDate = parseAndConvertToMyanmarTime(publishedStr);
+        let date = myanmarDate.getDate().toString().padStart(2,'0');
+        let month = (myanmarDate.getMonth()+1).toString().padStart(2,'0');
+        let year = myanmarDate.getFullYear();
+        return `${date}/${month}/${year}`;
+    }
+
+    // get Myanmar date as YYYY-MM-DD
+    function getMyanmarDateStr(date = new Date()) {
+        let myanmarDate = getMyanmarTime();
+        let year = myanmarDate.getFullYear();
+        let month = (myanmarDate.getMonth()+1).toString().padStart(2,'0');
+        let day = myanmarDate.getDate().toString().padStart(2,'0');
+        return `${year}-${month}-${day}`;
+    }
+
+    function getMyanmarTime() {
+        let d = new Date();
+        let utc = d.getTime() + (d.getTimezoneOffset() * 60000);
+        return new Date(utc + (6.5 * 3600000));
+    }
+
+    function updateClock() {
+        let now = getMyanmarTime();
+        let hours = now.getHours();
+        let minutes = now.getMinutes().toString().padStart(2,'0');
+        let ampm = hours >= 12 ? 'PM' : 'AM';
+        hours = hours % 12 || 12;
+        document.getElementById('live-clock').innerText = `${hours}:${minutes} ${ampm}`;
+        
+        let dayNames = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+        let day = dayNames[now.getDay()];
+        let date = now.getDate().toString().padStart(2,'0');
+        let month = (now.getMonth()+1).toString().padStart(2,'0');
+        let year = now.getFullYear();
+        document.getElementById('live-date').innerText = `${date}/${month}/${year} • ${day}`;
+    }
+    setInterval(updateClock, 1000);
+
+    function populateChannelFilter() {
+        let channels = [...new Set(videosData.map(v => v.channel))];
+        let select = document.getElementById('channel-filter');
+        select.innerHTML = '<option value="ALL">All channels</option>';
+        channels.forEach(ch => {
+            let opt = document.createElement('option');
+            opt.value = ch;
+            opt.textContent = ch;
+            select.appendChild(opt);
+        });
+    }
+
+    // ---------- News (home) with current date ----------
+    let currentNewsDate = getMyanmarDateStr();
+
+    function renderNews() {
+        let channel = document.getElementById('channel-filter').value;
+        let filtered = videosData.filter(v => {
+            let vMyanmarDate = formatPublishedDate(v.published); // DD/MM/YYYY
+            let [d, m, y] = vMyanmarDate.split('/');
+            let vDateStr = `${y}-${m}-${d}`;
+            return vDateStr === currentNewsDate;
+        });
+        if (channel !== 'ALL') filtered = filtered.filter(v => v.channel === channel);
+        
+        let grid = document.getElementById('news-grid');
+        grid.innerHTML = '';
+        filtered.forEach(v => grid.appendChild(createVideoCard(v)));
+        lucide.createIcons();
+        attachVideoClick();
+    }
+
+    // ---------- Studies ----------
+    function renderStudies() {
+        let mrattVideos = videosData.filter(v => v.channel_id === 'UCfi9cXgZK2YXPAqyyf4mAPg');
+        let grid = document.getElementById('studies-grid');
+        grid.innerHTML = '';
+        if (mrattVideos.length === 0) {
+            grid.innerHTML = '<div class="glass p-8 text-center col-span-3">No videos from Mratt Channel found.</div>';
+            return;
+        }
+        mrattVideos.forEach(v => grid.appendChild(createVideoCard(v)));
+        lucide.createIcons();
+        attachVideoClick();
+    }
+
+    // ---------- Database (clickable) ----------
+    function renderDatabase() {
+        let groups = {};
+        videosData.forEach(v => {
+            let myanmarDate = formatPublishedDate(v.published);
+            groups[myanmarDate] = (groups[myanmarDate] || 0) + 1;
+        });
+        let sorted = Object.keys(groups).sort((a,b) => {
+            let [da, ma, ya] = a.split('/');
+            let [db, mb, yb] = b.split('/');
+            let dateA = new Date(`${ya}-${ma}-${da}`);
+            let dateB = new Date(`${yb}-${mb}-${db}`);
+            return dateB - dateA;
+        });
+        let container = document.getElementById('database-list');
+        container.innerHTML = '';
+        sorted.forEach(date => {
+            let div = document.createElement('div');
+            div.className = 'glass p-4 flex items-center justify-between card-active cursor-pointer';
+            div.setAttribute('onclick', `showDateView('${date}')`);
+            div.innerHTML = `
+                <div class="flex flex-col">
+                    <span class="text-base font-bold text-white">${date}</span>
+                    <p class="text-xs text-white/60">Videos published</p>
+                </div>
+                <div class="w-10 h-10 rounded-full bg-teal-500 flex items-center justify-center text-white font-bold shadow-lg">
+                    ${groups[date]}
+                </div>
+            `;
+            container.appendChild(div);
+        });
+    }
+
+    // ---------- Date View ----------
+    function showDateView(dateString) { // dateString in DD/MM/YYYY
+        // Convert to YYYY-MM-DD for filtering
+        let [d, m, y] = dateString.split('/');
+        let filterDate = `${y}-${m}-${d}`;
+        let filtered = videosData.filter(v => {
+            let vDate = formatPublishedDate(v.published);
+            return vDate === dateString;
+        });
+        let grid = document.getElementById('dateview-grid');
+        grid.innerHTML = '';
+        filtered.forEach(v => grid.appendChild(createVideoCard(v)));
+        document.getElementById('dateview-title').innerText = dateString;
+        lucide.createIcons();
+        attachVideoClick();
+        showPage('dateview');
+    }
+
+    // Helper to create video card
+    function createVideoCard(v) {
+        let card = document.createElement('div');
+        card.className = 'glass p-4 card-active cursor-pointer group video-card';
+        card.dataset.videoId = v.video_id;
+        let thumbnailUrl = `https://img.youtube.com/vi/${v.video_id}/mqdefault.jpg`;
+        card.innerHTML = `
+            <div class="aspect-video rounded-xl mb-4 flex items-center justify-center relative overflow-hidden bg-cover bg-center" style="background-image: url('${thumbnailUrl}');">
+                <div class="absolute inset-0 bg-black/30 flex items-center justify-center group-hover:bg-black/40 transition">
+                    <i data-lucide="play-circle" class="w-12 h-12 text-white/80 group-hover:text-blue-300 transition-colors"></i>
+                </div>
+            </div>
+            <div class="flex justify-between items-start">
+                <div>
+                    <p class="text-[10px] uppercase tracking-wider text-white/60">${formatPublishedDate(v.published)}</p>
+                    <h3 class="font-bold text-sm text-white">${v.title}</h3>
+                    <p class="text-[10px] text-white/50 mt-1">${v.channel}</p>
+                </div>
+                <span class="text-[10px] text-white/60 whitespace-nowrap ml-2">${formatPublishedTimeTo12h(v.published)}</span>
+            </div>
+        `;
+        return card;
+    }
+
+    // ---------- Event listeners ----------
+    document.getElementById('yesterday-btn').addEventListener('click', ()=>{
+        let today = getMyanmarTime();
+        today.setDate(today.getDate() - 1);
+        let year = today.getFullYear();
+        let month = (today.getMonth()+1).toString().padStart(2,'0');
+        let day = today.getDate().toString().padStart(2,'0');
+        currentNewsDate = `${year}-${month}-${day}`;
+        renderNews();
+    });
+    document.getElementById('today-btn').addEventListener('click', ()=>{
+        currentNewsDate = getMyanmarDateStr();
+        renderNews();
+    });
+    document.getElementById('channel-filter').addEventListener('change', renderNews);
+
+    // ---------- video modal ----------
+    function openModal(videoId) {
+        let modal = document.getElementById('videoModal');
+        let iframe = document.getElementById('youtubeIframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        modal.classList.add('active');
+    }
+    window.closeModal = function() {
+        document.getElementById('videoModal').classList.remove('active');
+        document.getElementById('youtubeIframe').src = '';
+    }
+    function attachVideoClick() {
+        document.querySelectorAll('.video-card').forEach(card => {
+            card.addEventListener('click', () => {
+                let vid = card.dataset.videoId;
+                openModal(vid);
+            });
+        });
+    }
+
+    // ---------- PAGE NAVIGATION ----------
+    function showPage(pageId) {
+        document.querySelectorAll('.page').forEach(p => p.classList.add('hidden'));
+        document.getElementById(`section-${pageId}`).classList.remove('hidden');
+        if (pageId === 'database') renderDatabase();
+        if (pageId === 'news') renderNews();
+        if (pageId === 'studies') renderStudies();
+        // refresh icons after page change
+        lucide.createIcons();
+    }
+
+    document.querySelectorAll('.nav-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            let page = btn.dataset.page;
+            showPage(page);
+        });
+    });
+
+    // Hide bottom nav near bottom
+    window.addEventListener('scroll', () => {
+        const mobileNav = document.querySelector('nav.lg\\:hidden');
+        const scrollHeight = document.documentElement.scrollHeight;
+        const scrollTop = window.scrollY || document.documentElement.scrollTop;
+        const clientHeight = window.innerHeight;
+        if (scrollTop + clientHeight >= scrollHeight - 60) {
+            mobileNav.classList.add('nav-hidden');
+        } else {
+            mobileNav.classList.remove('nav-hidden');
+        }
+    });
+
+    // ---------- initial load ----------
+    window.addEventListener('load', () => {
+        lucide.createIcons();
+        updateClock();
+        loadVideos();
+    });
+</script>
+
+<!-- Additional note about Python script (for reference) -->
+<!-- 
+    Q: Does the Python script overwrite old posts?
+    A: As currently implemented, it likely overwrites the entire videos.json file each run.
+       To preserve history, modify the script to:
+       - Fetch new videos and merge with existing JSON (avoiding duplicates by video_id).
+       - Or store files with timestamps (e.g., videos_20260306.json) and have the app load multiple.
+       This would prevent data loss.
+-->
+</body>
+</html>
