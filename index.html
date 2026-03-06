@@ -5,6 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
     <title>News · MM</title>
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4WFSL18CMQ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-4WFSL18CMQ');
+    </script>
+
     <!-- PWA / Manifest -->
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#0B1120">
@@ -283,8 +292,8 @@
                 <p class="text-sm text-white/70" id="live-date">--/--/---- • ---</p>
             </div>
             <div class="flex gap-2 items-center">
-                <button id="today-btn" class="bg-teal-500 text-white px-4 py-1 rounded-full text-xs font-semibold whitespace-nowrap">Today</button>
-                <button id="yesterday-btn" class="glass px-4 py-1 rounded-full text-xs font-semibold whitespace-nowrap">Yesterday</button>
+                <button id="today-btn" class="px-4 py-1 rounded-full text-xs font-semibold whitespace-nowrap transition-colors">Today</button>
+                <button id="yesterday-btn" class="px-4 py-1 rounded-full text-xs font-semibold whitespace-nowrap transition-colors">Yesterday</button>
                 <select id="channel-filter" class="glass text-xs px-3 py-1 outline-none text-white max-w-[150px] truncate">
                     <option value="ALL">All channels</option>
                 </select>
@@ -384,6 +393,18 @@
     // Current date for News page
     let currentNewsDate = getMyanmarDateStr();
 
+    // ---------- Google Analytics video tracking ----------
+    function trackVideoClick(channel, title) {
+        if (typeof gtag !== 'undefined') {
+            gtag('event', 'video_play', {
+                'channel': channel,
+                'title': title
+            });
+        } else {
+            console.log('GA not loaded, would track:', channel, title);
+        }
+    }
+
     // ---------- DATA LOADING WITH CACHE ----------
     async function loadVideos() {
         // Try to load from cache first
@@ -465,6 +486,15 @@
         return `${year}-${month}-${day}`;
     }
 
+    function getYesterdayDateStr() {
+        let yesterday = getMyanmarTime();
+        yesterday.setDate(yesterday.getDate() - 1);
+        let year = yesterday.getFullYear();
+        let month = (yesterday.getMonth()+1).toString().padStart(2,'0');
+        let day = yesterday.getDate().toString().padStart(2,'0');
+        return `${year}-${month}-${day}`;
+    }
+
     function getMyanmarTime() {
         let d = new Date();
         let utc = d.getTime() + (d.getTimezoneOffset() * 60000);
@@ -498,6 +528,30 @@
             opt.textContent = ch;
             select.appendChild(opt);
         });
+    }
+
+    // ---------- Active date button highlight ----------
+    function updateActiveDateButton() {
+        const todayBtn = document.getElementById('today-btn');
+        const yesterdayBtn = document.getElementById('yesterday-btn');
+        const todayStr = getMyanmarDateStr();
+        const yesterdayStr = getYesterdayDateStr();
+
+        // Remove both special classes
+        todayBtn.classList.remove('bg-teal-500', 'glass');
+        yesterdayBtn.classList.remove('bg-teal-500', 'glass');
+
+        if (currentNewsDate === todayStr) {
+            todayBtn.classList.add('bg-teal-500');
+            yesterdayBtn.classList.add('glass');
+        } else if (currentNewsDate === yesterdayStr) {
+            yesterdayBtn.classList.add('bg-teal-500');
+            todayBtn.classList.add('glass');
+        } else {
+            // fallback (should not happen)
+            todayBtn.classList.add('glass');
+            yesterdayBtn.classList.add('glass');
+        }
     }
 
     // ---------- RENDER FUNCTIONS WITH PAGINATION ----------
@@ -537,6 +591,7 @@
 
         lucide.createIcons();
         attachVideoClick();
+        updateActiveDateButton(); // ensure button highlight matches current date
     }
 
     function renderStudies(resetPagination = false) {
@@ -630,11 +685,13 @@
         showPage('dateview');
     }
 
-    // Helper to create video card
+    // Helper to create video card (now with data-channel and data-title)
     function createVideoCard(v) {
         let card = document.createElement('div');
         card.className = 'glass p-4 card-active cursor-pointer group video-card';
         card.dataset.videoId = v.video_id;
+        card.dataset.channel = v.channel;
+        card.dataset.title = v.title;
         let thumbnailUrl = `https://img.youtube.com/vi/${v.video_id}/mqdefault.jpg`;
         card.innerHTML = `
             <div class="aspect-video rounded-xl mb-4 flex items-center justify-center relative overflow-hidden bg-cover bg-center" style="background-image: url('${thumbnailUrl}');">
@@ -712,6 +769,9 @@
         document.querySelectorAll('.video-card').forEach(card => {
             card.addEventListener('click', () => {
                 let vid = card.dataset.videoId;
+                let channel = card.dataset.channel;
+                let title = card.dataset.title;
+                trackVideoClick(channel, title);
                 openModal(vid);
             });
         });
@@ -722,7 +782,10 @@
         document.querySelectorAll('.page').forEach(p => p.classList.add('hidden'));
         document.getElementById(`section-${pageId}`).classList.remove('hidden');
         if (pageId === 'database') renderDatabase();
-        if (pageId === 'news') renderNews(true);
+        if (pageId === 'news') {
+            renderNews(true);
+            updateActiveDateButton(); // ensure button highlight correct
+        }
         if (pageId === 'studies') renderStudies(true);
         // refresh icons after page change
         lucide.createIcons();
@@ -754,6 +817,7 @@
         updateClock();
         loadVideos();
         showPage('news'); // default page
+        updateActiveDateButton(); // initial button highlight
     });
 
     // Registers the Service Worker to make the app installable
