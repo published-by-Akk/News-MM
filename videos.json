@@ -1,5 +1,95 @@
 [
   {
+    "title": "DVB Digital နေ့လယ် ၁ နာရီ သတင်း (၁၄ ရက် မတ်လ ၂၀၂၆)",
+    "video_id": "AaM5oHRUSL8",
+    "published": "2026-03-14T06:30:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "06:30:06",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=AaM5oHRUSL8"
+  },
+  {
+    "title": "Khit Thit Afternoon News | March 14, 2026",
+    "video_id": "50a0WQKhCMY",
+    "published": "2026-03-14T06:00:04+00:00",
+    "channel": "Khit Thit Media",
+    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
+    "time": "06:00:04",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=50a0WQKhCMY"
+  },
+  {
+    "title": "Trump shares bombing video after Kharg Island attack in Iran",
+    "video_id": "7fbj9_gj16s",
+    "published": "2026-03-14T05:41:38+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "05:41:38",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=7fbj9_gj16s"
+  },
+  {
+    "title": "ဒလ - ဆူးလေ ပြေးဆွဲနေတဲ့ YBS ကြမ်းခင်းပေါက်ပြဲ ပြင်ဆင်ဖို့တင်းကြပ် - DVB News",
+    "video_id": "OzeTrcqGWGI",
+    "published": "2026-03-14T05:26:26+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "05:26:26",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=OzeTrcqGWGI"
+  },
+  {
+    "title": "ဒေသတွင်း အမေရိကန်စစ်စခန်းများ ပိတ်ရန် ခါမေနီ တောင်းဆို - DVB News",
+    "video_id": "TBKhjVabPFQ",
+    "published": "2026-03-14T05:18:21+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "05:18:21",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=TBKhjVabPFQ"
+  },
+  {
+    "title": "Sailors stuck and exposed in Gulf as Iran closes Strait of Hormuz",
+    "video_id": "bxaYCpGYE2Q",
+    "published": "2026-03-14T04:58:49+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "04:58:49",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=bxaYCpGYE2Q"
+  },
+  {
+    "title": "ငွေဈေး ရွှေဈေး (၁၄ ရက် မတ်လ ၂၀၂၆ မနက်ပိုင်း)",
+    "video_id": "X2hRVEC2S9w",
+    "published": "2026-03-14T04:36:28+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "04:36:28",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=X2hRVEC2S9w"
+  },
+  {
+    "title": "DVB Digital မနက် ၁၁ နာရီ သတင်း (၁၄ ရက် မတ်လ ၂၀၂၆)",
+    "video_id": "6U_S7JptNRw",
+    "published": "2026-03-14T04:30:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "04:30:06",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=6U_S7JptNRw"
+  },
+  {
+    "title": "စစ်ပွဲကြောင့် နေရပ်ရွှေ့ပြောင်းသူ ၄.၁ သန်းကျော်ရှိလာ၊ နိုင်ငံတကာ မနက်ပိုင်း သတင်းများ - DVB News",
+    "video_id": "S3qbrwddPVs",
+    "published": "2026-03-14T04:08:07+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "04:08:07",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=S3qbrwddPVs"
+  },
+  {
     "title": "ရာမဒန်လနောက်ဆုံး သောကြာနေ့စုဝေးပွဲနားကို လေကြောင်းတိုက်ခံရ - BBC News မြန်မာ",
     "video_id": "eCfNn8llzLA",
     "published": "2026-03-14T04:00:44+00:00",
@@ -8,6 +98,46 @@
     "time": "04:00:44",
     "date": "2026-03-14",
     "youtube_link": "https://www.youtube.com/watch?v=eCfNn8llzLA"
+  },
+  {
+    "title": "စစ်ခေါင်းဆောင်က တပ်နှုတ်ဆက်ပွဲပုံစံ တွေ့ဆုံပွဲ ပြုလုပ် - DVB News",
+    "video_id": "5rWijreQx_E",
+    "published": "2026-03-14T03:56:46+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "03:56:46",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=5rWijreQx_E"
+  },
+  {
+    "title": "အရှေ့အလယ်ပိုင်းစစ်ပွဲကြောင့် နေရပ်ရွှေ့ပြောင်းသူ ၄.၁ သန်းကျော်ရှိလာ  - DVB News",
+    "video_id": "QzwzBnakKYQ",
+    "published": "2026-03-14T03:51:46+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "03:51:46",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=QzwzBnakKYQ"
+  },
+  {
+    "title": "မကွေးဖက်ဒရယ်ယူနစ် ကာကွယ်ရေးဝန်ကြီးအဖြစ် ဗိုလ်လက်ျာကို ခန့်အပ် - DVB News",
+    "video_id": "Purks3Lqh4E",
+    "published": "2026-03-14T03:34:46+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "03:34:46",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=Purks3Lqh4E"
+  },
+  {
+    "title": "စစ်တပ်တွေ့ဆုံပွဲမှာ စစ်ခေါင်းဆောင်က ကိုယ့်ကိုကိုယ် အမွှန်းတင် - DVB News",
+    "video_id": "uE8zjym6bVE",
+    "published": "2026-03-14T03:17:37+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "03:17:37",
+    "date": "2026-03-14",
+    "youtube_link": "https://www.youtube.com/watch?v=uE8zjym6bVE"
   },
   {
     "title": "DVB Digital မနက် ၉ နာရီ သတင်း (၁၄ ရက် မတ်လ ၂၀၂၆)",
@@ -1868,135 +1998,5 @@
     "time": "09:58:19",
     "date": "2026-03-11",
     "youtube_link": "https://www.youtube.com/watch?v=W7XiLVVXSPE"
-  },
-  {
-    "title": "RIGHTS GROUP CONDEMNS UK SUSPENSION OF STUDENT VISAS FOR MYANMAR APPLICANTS",
-    "video_id": "dfGb6reBYo4",
-    "published": "2026-03-11T09:56:10+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "09:56:10",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=dfGb6reBYo4"
-  },
-  {
-    "title": "MYANMAR RIGHTS GROUPS SAY POLITICAL PRISONER RELEASES FALL SHORT OF JUNTA CLAIMS",
-    "video_id": "fLAWTyvXkig",
-    "published": "2026-03-11T09:36:37+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "09:36:37",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=fLAWTyvXkig"
-  },
-  {
-    "title": "MYANMAR RESISTANCE INFIGHTING RISKS AIDING JUNTA WARNS COMMUNIST PARTY OF BURMA",
-    "video_id": "Qjb0_JgUph4",
-    "published": "2026-03-11T09:33:23+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "09:33:23",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=Qjb0_JgUph4"
-  },
-  {
-    "title": "FUEL QUEUES GROW IN MYANMAR CAPITAL AS JUNTA URGES CONSERVATION",
-    "video_id": "qZVbCsszUtw",
-    "published": "2026-03-11T09:22:12+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "09:22:12",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=qZVbCsszUtw"
-  },
-  {
-    "title": "ကျောက်ကြီးမှာ စစ်တပ် ဖမ်းထားတဲ့ ပြည်သူတွေကို အထူးစစ်ဆင်ရေးနဲ့ ကယ်တင်- DVB News",
-    "video_id": "jNbPK6snHDQ",
-    "published": "2026-03-11T09:18:51+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:18:51",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=jNbPK6snHDQ"
-  },
-  {
-    "title": "နေ့စဉ် မိုးလေဝသ ခန့်မှန်းချက် - DVB Weather (၁၁ ရက် မတ်လ ၂၀၂၆ ညနေပိုင်း)",
-    "video_id": "nRDOf3X4NxQ",
-    "published": "2026-03-11T09:17:37+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:17:37",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=nRDOf3X4NxQ"
-  },
-  {
-    "title": "အီရန်စစ်ပွဲကြောင့် မြန်မာမှာ စက်သုံးဆီတင်သွင်းမှု ဘယ်လောက်ထိ ရိုက်ခတ်နိုင်သလဲ",
-    "video_id": "sUtLLvA5OVE",
-    "published": "2026-03-11T09:15:01+00:00",
-    "channel": "Myanmar Now News",
-    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
-    "time": "09:15:01",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=sUtLLvA5OVE"
-  },
-  {
-    "title": "RIGHTS GROUP SAYS MYANMAR PRISONER AMNESTY IS PUBLICITY STUNT",
-    "video_id": "IP5haWMiDO4",
-    "published": "2026-03-11T09:12:59+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "09:12:59",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=IP5haWMiDO4"
-  },
-  {
-    "title": "REPORT URGES NUG TO BOLSTER INDEPENDENCE OF PLANNED RIGHTS COMMISSION",
-    "video_id": "9F_KzZHEUug",
-    "published": "2026-03-11T09:12:10+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "09:12:10",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=9F_KzZHEUug"
-  },
-  {
-    "title": "ရုရှားဒုံးကျည် စက်ရုံကို ယူကရိန်း တိုက်ခိုက်- DVB News",
-    "video_id": "pvbfiwZEnEQ",
-    "published": "2026-03-11T09:01:12+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:01:12",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=pvbfiwZEnEQ"
-  },
-  {
-    "title": "‘သတိထား၊ အမြစ်ပြတ်ချေမှုန်းခံရမယ်’ လို့ ထရမ့်ကို အီရန် ပြင်းထန်စွာ သတိပေး (ရုပ်သံ)",
-    "video_id": "ejV9gfkUDZY",
-    "published": "2026-03-11T08:44:09+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "08:44:09",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=ejV9gfkUDZY"
-  },
-  {
-    "title": "What we know about the #strike on an #Iran #school",
-    "video_id": "bXuNO77l5Sg",
-    "published": "2026-03-11T08:43:58+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "08:43:58",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=bXuNO77l5Sg"
-  },
-  {
-    "title": "‘သတိထား၊ အမြစ်ပြတ်ချေမှုန်းခံရမယ်’ လို့ ထရမ့်ကို အီရန် ပြင်းထန်စွာ သတိပေး (ရုပ်သံ)",
-    "video_id": "mVzPMHblJJ0",
-    "published": "2026-03-11T08:36:47+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "08:36:47",
-    "date": "2026-03-11",
-    "youtube_link": "https://www.youtube.com/watch?v=mVzPMHblJJ0"
   }
 ]
