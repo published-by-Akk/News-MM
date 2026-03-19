@@ -1,5 +1,35 @@
 [
   {
+    "title": "နေ့စဉ် မိုးလေဝသ ခန့်မှန်းချက် - DVB Weather (၁၉ ရက် မတ်လ ၂၀၂၆ ညနေပိုင်း)",
+    "video_id": "Voellt-35x4",
+    "published": "2026-03-19T08:38:45+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:38:45",
+    "date": "2026-03-19",
+    "youtube_link": "https://www.youtube.com/watch?v=Voellt-35x4"
+  },
+  {
+    "title": "DVB Digital ညနေ ၃ နာရီ သတင်း (၁၉ ရက် မတ်လ ၂၀၂၆)",
+    "video_id": "A97GYvgioug",
+    "published": "2026-03-19T08:34:47+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:34:47",
+    "date": "2026-03-19",
+    "youtube_link": "https://www.youtube.com/watch?v=A97GYvgioug"
+  },
+  {
+    "title": "စွမ်းအင်ထောက်ပံ့မည်ဆိုသော မက်လုံးဖြင့် တရုတ်က ထိုင်ဝမ်ကို ပြန်လည်ပေါင်းစည်းရေးအတွက် စည်းရုံး",
+    "video_id": "vKO8ZirrSz4",
+    "published": "2026-03-19T07:59:59+00:00",
+    "channel": "Myanmar Now News",
+    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
+    "time": "07:59:59",
+    "date": "2026-03-19",
+    "youtube_link": "https://www.youtube.com/watch?v=vKO8ZirrSz4"
+  },
+  {
     "title": "အီရန်စစ်ဆင်ရေး နေတိုး ဝင်မတိုက်ပေးချင် ထရမ့်အပြစ်တင်၊ နိုင်ငံတကာ မနက်ပိုင်း သတင်းများ - DVB News",
     "video_id": "R_Usu9A9g0w",
     "published": "2026-03-19T07:27:17+00:00",
@@ -1968,35 +1998,5 @@
     "time": "12:01:32",
     "date": "2026-03-16",
     "youtube_link": "https://www.youtube.com/watch?v=pumuSTCFsbw"
-  },
-  {
-    "title": "မတ်လ ၁၆ ရက်နေ့ ၊ ညနေ ၅ နာရီထိ နောက်ဆုံးရငွေစျေးနှုန်းများ",
-    "video_id": "YGtYAbno47A",
-    "published": "2026-03-16T11:52:06+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "11:52:06",
-    "date": "2026-03-16",
-    "youtube_link": "https://www.youtube.com/watch?v=YGtYAbno47A"
-  },
-  {
-    "title": "မတ်လ ၁၆ ရက်နေ့ ၊ ညနေ ၅ နာရီထိ နောက်ဆုံးရ စျေးနှုန်းများ",
-    "video_id": "TRqUsyPmNn4",
-    "published": "2026-03-16T11:50:21+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "11:50:21",
-    "date": "2026-03-16",
-    "youtube_link": "https://www.youtube.com/watch?v=TRqUsyPmNn4"
-  },
-  {
-    "title": "ဟောလိဝုဒ်ငွေကြယ်ပွင့်တွေနဲ့ အော်စကာဆုပေးပွဲ - BBC News မြန်မာ",
-    "video_id": "ff72cUx9XFs",
-    "published": "2026-03-16T11:40:51+00:00",
-    "channel": "BBC News မြန်မာ",
-    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
-    "time": "11:40:51",
-    "date": "2026-03-16",
-    "youtube_link": "https://www.youtube.com/watch?v=ff72cUx9XFs"
   }
 ]
