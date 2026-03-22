@@ -120,6 +120,16 @@
     "youtube_link": "https://www.youtube.com/watch?v=ahBFCXiN6Tw"
   },
   {
+    "title": "DVB Digital မနက် ၇ နာရီ သတင်း (၂၃ ရက် မတ်လ ၂၀၂၆)",
+    "video_id": "bo5vd_udhfA",
+    "published": "2026-03-22T10:32:25+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:32:25",
+    "date": "2026-03-22",
+    "youtube_link": "https://www.youtube.com/watch?v=bo5vd_udhfA"
+  },
+  {
     "title": "DVB Digital ညနေ ၅ နာရီ သတင်း (၂၂ ရက် မတ်လ ၂၀၂၆)",
     "video_id": "mmB_OaLw1ZY",
     "published": "2026-03-22T10:30:06+00:00",
@@ -1988,15 +1998,5 @@
     "time": "11:33:47",
     "date": "2026-03-19",
     "youtube_link": "https://www.youtube.com/watch?v=c_7FhuRugYk"
-  },
-  {
-    "title": "မြဝတီမှာ စက်သုံးဆီတွေ ပြတ်လပ်၊ ထိုင်းဘက်ကို မြန်မာကားတွေ ဆီလာဝယ် - DVB News",
-    "video_id": "uOfBx8_kU3s",
-    "published": "2026-03-19T11:30:07+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "11:30:07",
-    "date": "2026-03-19",
-    "youtube_link": "https://www.youtube.com/watch?v=uOfBx8_kU3s"
   }
 ]
