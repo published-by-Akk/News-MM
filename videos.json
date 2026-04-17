@@ -1,5 +1,75 @@
 [
   {
+    "title": "၁၀ ရက်အပစ်ရပ်ပြီးနောက် မာရသွန် ကျင်းပ",
+    "video_id": "Kyj5GCFdxM4",
+    "published": "2026-04-17T10:36:55+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:36:55",
+    "date": "2026-04-17",
+    "youtube_link": "https://www.youtube.com/watch?v=Kyj5GCFdxM4"
+  },
+  {
+    "title": "DVB Digital ညနေ ၅ နာရီ သတင်း (၁၇ ရက် ဧပြီလ ၂၀၂၆)",
+    "video_id": "tK-u-Y5HW4M",
+    "published": "2026-04-17T10:30:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:30:06",
+    "date": "2026-04-17",
+    "youtube_link": "https://www.youtube.com/watch?v=tK-u-Y5HW4M"
+  },
+  {
+    "title": "ငွေဈေး ရွှေဈေး (၁၇ ရက် ဧပြီလ ၂၀၂၆ ညနေပိုင်း)",
+    "video_id": "Ob3AUFwFMHE",
+    "published": "2026-04-17T10:27:54+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:27:54",
+    "date": "2026-04-17",
+    "youtube_link": "https://www.youtube.com/watch?v=Ob3AUFwFMHE"
+  },
+  {
+    "title": "ဒီဗွီဘီ သတင်း ပေါ့ကတ်စ် (၁၇ ရက် ဧပြီလ ၂၀၂၆) - DVB Newsbreak",
+    "video_id": "CaXC4hxcABM",
+    "published": "2026-04-17T10:24:18+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:24:18",
+    "date": "2026-04-17",
+    "youtube_link": "https://www.youtube.com/watch?v=CaXC4hxcABM"
+  },
+  {
+    "title": "DVB Fact Check Episode 66 Promo 13.04.2026",
+    "video_id": "utQZDP6eSfk",
+    "published": "2026-04-17T10:08:33+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:08:33",
+    "date": "2026-04-17",
+    "youtube_link": "https://www.youtube.com/watch?v=utQZDP6eSfk"
+  },
+  {
+    "title": "သမ္မတဦးဝင်းမြင့် အခြေအနေ ဒေါက်တာမျိုးညွန့် ပြောပြချက်",
+    "video_id": "5Mgxn73PmGA",
+    "published": "2026-04-17T09:59:55+00:00",
+    "channel": "Myanmar Now News",
+    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
+    "time": "09:59:55",
+    "date": "2026-04-17",
+    "youtube_link": "https://www.youtube.com/watch?v=5Mgxn73PmGA"
+  },
+  {
+    "title": "နေ့စဉ် မိုးလေဝသ ခန့်မှန်းချက် - DVB Weather (၁၇ ရက် ဧပြီလ ၂၀၂၆ ညနေပိုင်း)",
+    "video_id": "AbtvXofjJHs",
+    "published": "2026-04-17T09:46:54+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "09:46:54",
+    "date": "2026-04-17",
+    "youtube_link": "https://www.youtube.com/watch?v=AbtvXofjJHs"
+  },
+  {
     "title": "မြန်မာနေုာင်းရဲ့တပတ်တာအတွင်း သတင်းအစီအစဉ်",
     "video_id": "yR4CiNz6m_Y",
     "published": "2026-04-17T09:17:37+00:00",
@@ -8,6 +78,16 @@
     "time": "09:17:37",
     "date": "2026-04-17",
     "youtube_link": "https://www.youtube.com/watch?v=yR4CiNz6m_Y"
+  },
+  {
+    "title": "သင်္ကြန်တွင်း လေးမျက်နှာအစပ်ရွာတွေမှာ တိုက်ပွဲဖြစ်၊ စစ်မှုထမ်းတပ်သားနဲ့ အင်အားဖြည့်- DVB News",
+    "video_id": "o_qNcDbB4OY",
+    "published": "2026-04-17T09:15:21+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "09:15:21",
+    "date": "2026-04-17",
+    "youtube_link": "https://www.youtube.com/watch?v=o_qNcDbB4OY"
   },
   {
     "title": "DVB TV ညနေခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE  (၁၇ ရက် ဧပြီလ ၂၀၂၆)",
@@ -1918,85 +1998,5 @@
     "time": "09:06:53",
     "date": "2026-04-14",
     "youtube_link": "https://www.youtube.com/watch?v=6zF_VmCVx0g"
-  },
-  {
-    "title": "စူပါတိုင်ဖွန်း ဆင်လာကူက ဂူအမ်နဲ့ မြောက်မာရီယာနာကျွန်းစုတွေဆီ ချဉ်းကပ်လာ - DVB News",
-    "video_id": "PBcCeHMwzPI",
-    "published": "2026-04-14T09:00:06+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:00:06",
-    "date": "2026-04-14",
-    "youtube_link": "https://www.youtube.com/watch?v=PBcCeHMwzPI"
-  },
-  {
-    "title": "အီရန်စစ်ပွဲကြောင့်စွမ်းအင်ဈေးကွက်များ ပိုမိုကြီးမားသည့်အကျပ်အတည်း ကြုံရမည်ဟု IEA အကြီးအကဲ သတိပေး",
-    "video_id": "cnAhYhLVc0E",
-    "published": "2026-04-14T08:55:11+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "08:55:11",
-    "date": "2026-04-14",
-    "youtube_link": "https://www.youtube.com/watch?v=cnAhYhLVc0E"
-  },
-  {
-    "title": "ရေတပ်ခရုစ်ဒုံးကျည်ပစ်လွှတ်မှုကို မြောက်ကိုရီးယားခေါင်းဆောင် ကင် ကြည့်ရှု ဟု KCNA သတင်းဌာန ဖော်ပြ",
-    "video_id": "LtutdQXyfcs",
-    "published": "2026-04-14T08:51:03+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "08:51:03",
-    "date": "2026-04-14",
-    "youtube_link": "https://www.youtube.com/watch?v=LtutdQXyfcs"
-  },
-  {
-    "title": "လွိုင်ကော်-ဖားဆောင်းလမ်းမကြီးပြန်ဖွင့်မယ်ဆိုတဲ့လက်တွေ့မကျဟု KNDF တုံ့ပြန် - DVB News",
-    "video_id": "x9SPvIYaLy4",
-    "published": "2026-04-14T08:45:06+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "08:45:06",
-    "date": "2026-04-14",
-    "youtube_link": "https://www.youtube.com/watch?v=x9SPvIYaLy4"
-  },
-  {
-    "title": "ရေတပ်ခရုစ်ဒုံးကျည်ပစ်လွှတ်မှုကို မြောက်ကိုရီးယားခေါင်းဆောင် ကင် ကြည့်ရှု ဟု KCNA သတင်းဌာန ဖော်ပြ",
-    "video_id": "w3OfWh5n66A",
-    "published": "2026-04-14T08:40:16+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "08:40:16",
-    "date": "2026-04-14",
-    "youtube_link": "https://www.youtube.com/watch?v=w3OfWh5n66A"
-  },
-  {
-    "title": "DVB Digital ညနေ ၃ နာရီ သတင်း (၁၄ ရက် ဧပြီလ ၂၀၂၆)",
-    "video_id": "b3ZN_vzaOdo",
-    "published": "2026-04-14T08:30:06+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "08:30:06",
-    "date": "2026-04-14",
-    "youtube_link": "https://www.youtube.com/watch?v=b3ZN_vzaOdo"
-  },
-  {
-    "title": "အီရန်အရေး အာရုံစိုက်နေချိန် တရုတ်က အငြင်းပွားကျွန်းကို မြန်မြန်ဆန်ဆန် သိမ်းပိုက် - DVB News",
-    "video_id": "wrCk5CIemoU",
-    "published": "2026-04-14T08:00:07+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "08:00:07",
-    "date": "2026-04-14",
-    "youtube_link": "https://www.youtube.com/watch?v=wrCk5CIemoU"
-  },
-  {
-    "title": "(မြန်မာ) တိုင်းရင်းသားဘာသာ သတင်းအစီအစဉ် - DVB News",
-    "video_id": "iU0dt1auVxE",
-    "published": "2026-04-14T07:52:16+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "07:52:16",
-    "date": "2026-04-14",
-    "youtube_link": "https://www.youtube.com/watch?v=iU0dt1auVxE"
   }
 ]
