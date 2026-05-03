@@ -1,5 +1,25 @@
 [
   {
+    "title": "DVB Digital ည ၇ နာရီ သတင်း (၃ ရက် မေလ ၂၀၂၆)",
+    "video_id": "OcZmFF7aQe4",
+    "published": "2026-05-03T12:30:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "12:30:06",
+    "date": "2026-05-03",
+    "youtube_link": "https://www.youtube.com/watch?v=OcZmFF7aQe4"
+  },
+  {
+    "title": "မေလ ၃ ရက်၊ တနင်္ဂနွေနေ့ ညပိုင်း မဇ္ဈိမရေဒီယိုအစီအစဥ်",
+    "video_id": "zCzhpeTOUZ4",
+    "published": "2026-05-03T12:30:06+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "12:30:06",
+    "date": "2026-05-03",
+    "youtube_link": "https://www.youtube.com/watch?v=zCzhpeTOUZ4"
+  },
+  {
     "title": "SCEF ကို ထောက်ခံကြောင်း စကားဝိုင်းဆွေးနွေးပွဲ မဲဘုန်းမြို့မှာ ပြုလုပ်- DVB News",
     "video_id": "riyExv325Lc",
     "published": "2026-05-03T11:30:06+00:00",
@@ -38,6 +58,16 @@
     "time": "10:30:06",
     "date": "2026-05-03",
     "youtube_link": "https://www.youtube.com/watch?v=GXEoCYDdJG0"
+  },
+  {
+    "title": "ဒေါ်အောင်ဆန်းစုကြည်နဲ့ ရှေ့နေအဖွဲ့ တွေ့မယ်ဆိုတဲ့သတင်း မဟုတ်ဘူးလို့ ငြင်းဆို- DVB News",
+    "video_id": "_LVgvTuqqPw",
+    "published": "2026-05-03T09:59:17+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "09:59:17",
+    "date": "2026-05-03",
+    "youtube_link": "https://www.youtube.com/watch?v=_LVgvTuqqPw"
   },
   {
     "title": "ငွေဈေး ရွှေဈေး (၃ ရက် မေလ ၂၀၂၆ ညနေပိုင်း)",
@@ -1968,35 +1998,5 @@
     "time": "11:58:36",
     "date": "2026-04-30",
     "youtube_link": "https://www.youtube.com/watch?v=nyZURAmolJw"
-  },
-  {
-    "title": "ဒီတပတ်ရဲ့ My india အစီအစဉ် | 30 April 2026",
-    "video_id": "SAJuGz6bkmQ",
-    "published": "2026-04-30T11:30:23+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "11:30:23",
-    "date": "2026-04-30",
-    "youtube_link": "https://www.youtube.com/watch?v=SAJuGz6bkmQ"
-  },
-  {
-    "title": "နိုင်ငံက သစ္စာမဖောက်ဘူး၊ အစိုးရကသာ သစ္စာဖောက်တာ - အိုင်းဗစ်ပီလိုတို",
-    "video_id": "P0uWUGt4QbI",
-    "published": "2026-04-30T11:17:00+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "11:17:00",
-    "date": "2026-04-30",
-    "youtube_link": "https://www.youtube.com/watch?v=P0uWUGt4QbI"
-  },
-  {
-    "title": "ဧပြီလ  ၃၀ ရက်နေ့ ၊ ညနေ ၅ နာရီထိ နောက်ဆုံးရငွေစျေးနှုန်းများ",
-    "video_id": "Toach1PBm38",
-    "published": "2026-04-30T11:14:53+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "11:14:53",
-    "date": "2026-04-30",
-    "youtube_link": "https://www.youtube.com/watch?v=Toach1PBm38"
   }
 ]
