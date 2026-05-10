@@ -110,6 +110,16 @@
     "youtube_link": "https://www.youtube.com/watch?v=nRxptVgDAyU"
   },
   {
+    "title": "DVB Digital မနက် ၇ နာရီ သတင်း (၁၁ ရက် မေလ ၂၀၂၆)",
+    "video_id": "gfw8qqA7vZg",
+    "published": "2026-05-10T12:36:31+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "12:36:31",
+    "date": "2026-05-10",
+    "youtube_link": "https://www.youtube.com/watch?v=gfw8qqA7vZg"
+  },
+  {
     "title": "DVB Digital ည ၇ နာရီ သတင်း (၁၀ ရက် မေလ ၂၀၂၆)",
     "video_id": "PsiK5AzEzT4",
     "published": "2026-05-10T12:30:07+00:00",
@@ -1988,15 +1998,5 @@
     "time": "10:07:34",
     "date": "2026-05-07",
     "youtube_link": "https://www.youtube.com/watch?v=8PVcjXomIus"
-  },
-  {
-    "title": "ဒီဗွီဘီ သတင်း ပေါ့ကတ်စ် (၇ ရက် မေလ ၂၀၂၆) - DVB Newsbreak",
-    "video_id": "GVJamhQ9Eik",
-    "published": "2026-05-07T09:58:53+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:58:53",
-    "date": "2026-05-07",
-    "youtube_link": "https://www.youtube.com/watch?v=GVJamhQ9Eik"
   }
 ]
