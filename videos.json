@@ -1,5 +1,35 @@
 [
   {
+    "title": "စည်ပင်သာယာ အရာရှိ CDM တစ်ယောက်ရဲ့ မဲဆောက်ခိုလှုံရာ - DVB Feature",
+    "video_id": "ZhvxMA3ecO8",
+    "published": "2026-05-25T01:00:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "01:00:06",
+    "date": "2026-05-25",
+    "youtube_link": "https://www.youtube.com/watch?v=ZhvxMA3ecO8"
+  },
+  {
+    "title": "PVTV - တပတ်အတွင်း သတင်းဒိုင်ဂျက် (24 May 2026)",
+    "video_id": "gmEr-B7S6U4",
+    "published": "2026-05-25T00:47:56+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "00:47:56",
+    "date": "2026-05-25",
+    "youtube_link": "https://www.youtube.com/watch?v=gmEr-B7S6U4"
+  },
+  {
+    "title": "DVB Digital မနက် ၇ နာရီ သတင်း (၂၅ ရက် မေလ ၂၀၂၆)",
+    "video_id": "FDSvKS4JoGk",
+    "published": "2026-05-25T00:30:07+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "00:30:07",
+    "date": "2026-05-25",
+    "youtube_link": "https://www.youtube.com/watch?v=FDSvKS4JoGk"
+  },
+  {
     "title": "DVB TV နေ့စဉ်သတင်း အနှစ်ချုပ် - Daily News Briefing (22.05.2026)",
     "video_id": "DhcC5DopBy8",
     "published": "2026-05-24T23:00:06+00:00",
@@ -1968,35 +1998,5 @@
     "time": "08:30:06",
     "date": "2026-05-21",
     "youtube_link": "https://www.youtube.com/watch?v=tlMKB5-XlIg"
-  },
-  {
-    "title": "DVB TV ညနေခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE (၂၁ ရက် မေလ ၂၀၂၆)",
-    "video_id": "FRLzZRX70lc",
-    "published": "2026-05-21T08:29:35+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "08:29:35",
-    "date": "2026-05-21",
-    "youtube_link": "https://www.youtube.com/watch?v=FRLzZRX70lc"
-  },
-  {
-    "title": "DVB TV နေ့လယ်ခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE (၂၁ ရက် မေလ ၂၀၂၆)",
-    "video_id": "28Os4J9g_go",
-    "published": "2026-05-21T07:50:16+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "07:50:16",
-    "date": "2026-05-21",
-    "youtube_link": "https://www.youtube.com/watch?v=28Os4J9g_go"
-  },
-  {
-    "title": "မိုးကောင်းမြို့နယ်အတွင်း ကျေးရွာတွေမကျန် သန်းခေါင်စာရင်းကောက်ဖို့ လုပ်ဆောင်- DVB News",
-    "video_id": "e6ss84dB16Y",
-    "published": "2026-05-21T07:27:46+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "07:27:46",
-    "date": "2026-05-21",
-    "youtube_link": "https://www.youtube.com/watch?v=e6ss84dB16Y"
   }
 ]
