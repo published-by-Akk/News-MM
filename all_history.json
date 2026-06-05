@@ -1,5 +1,235 @@
 [
   {
+    "title": "DVB Digital ညနေ ၅ နာရီ သတင်း (၅ ရက် ဇွန်လ ၂၀၂၆)",
+    "video_id": "f7AjRhz32bc",
+    "published": "2026-06-05T10:30:07+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:30:07",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=f7AjRhz32bc"
+  },
+  {
+    "title": "ဇွန်လ ၅ ရက်နေ့ ၊ ညနေ ၅ နာရီထိ နောက်ဆုံးရ စျေးနှုန်းများ",
+    "video_id": "J0yTEG1ItAc",
+    "published": "2026-06-05T10:30:07+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "10:30:07",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=J0yTEG1ItAc"
+  },
+  {
+    "title": "DVB TV ညနေခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE  (၅ ရက် ဇွန်လ ၂၀၂၆)",
+    "video_id": "hvLp-NGqioQ",
+    "published": "2026-06-05T10:05:20+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:05:20",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=hvLp-NGqioQ"
+  },
+  {
+    "title": "မြို့နယ် ၆၀ မှာ စစ်အုပ်ချုပ်ရေး သက်တမ်းထပ်တိုးဖို့ လွှတ်တော်မှာ အဆိုတင်",
+    "video_id": "t_6wtzF6LjU",
+    "published": "2026-06-05T09:35:17+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "09:35:17",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=t_6wtzF6LjU"
+  },
+  {
+    "title": "အီရန်စစ်ပွဲရပ်ရန် အောက်လွှတ်တော် မဲခွဲဆုံးဖြတ်၊ ထရမ့်ဗီတို ကျော်နိုင်ဖွယ်မရှိ  - DVB News",
+    "video_id": "GYANnwvO0C8",
+    "published": "2026-06-05T09:30:33+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "09:30:33",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=GYANnwvO0C8"
+  },
+  {
+    "title": "ထိုင်းနိုင်ငံမြောက်ပိုင်းတွင် မိုးသည်းထန်စွာ ရွာသွန်းနိုင်ကြောင်း သတိပေး",
+    "video_id": "Ko24VYI9FrI",
+    "published": "2026-06-05T09:24:39+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "09:24:39",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=Ko24VYI9FrI"
+  },
+  {
+    "title": "ထိုင်းနိုင်ငံမြောက်ပိုင်းတွင်မိုးသည်းထန်စွာရွာသွန်းနိုင်ကြောင်းသတိပေးရုတ်တရက် ရေကြီးမည်ကိုစိုးရိမ်နေ",
+    "video_id": "rV9EVBeqfjM",
+    "published": "2026-06-05T09:10:31+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "09:10:31",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=rV9EVBeqfjM"
+  },
+  {
+    "title": "ရိုဒရီဂက်ဇ်နှင့် မိုဒီတွေ့ဆုံစဉ် ဗင်နီဇွဲလားရေနံကို ‘အခွင့်အလမ်း’ အဖြစ် အိန္ဒိယရှုမြင်",
+    "video_id": "3xsVpQU1f0M",
+    "published": "2026-06-05T09:01:57+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "09:01:57",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=3xsVpQU1f0M"
+  },
+  {
+    "title": "နေ့စဉ် မိုးလေဝသ ခန့်မှန်းချက် - DVB Weather (၅ ရက် ဇွန်လ ၂၀၂၆ ညနေပိုင်း)",
+    "video_id": "1M5_EV1lWeM",
+    "published": "2026-06-05T09:00:39+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "09:00:39",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=1M5_EV1lWeM"
+  },
+  {
+    "title": "ရိုဒရီဂက်ဇ်နှင့် မိုဒီတွေ့ဆုံစဉ် ဗင်နီဇွဲလားရေနံကို ‘အခွင့်အလမ်း’ အဖြစ် အိန္ဒိယရှုမြင်",
+    "video_id": "xLQhTCRd06o",
+    "published": "2026-06-05T08:56:26+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:56:26",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=xLQhTCRd06o"
+  },
+  {
+    "title": "ငွေဈေး ရွှေဈေး (၅ ရက် ဇွန်လ ၂၀၂၆ ညနေပိုင်း)",
+    "video_id": "edPgddwEZ2k",
+    "published": "2026-06-05T08:45:08+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:45:08",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=edPgddwEZ2k"
+  },
+  {
+    "title": "DVB Digital ညနေ ၃ နာရီ သတင်း (၅ ရက် ဇွန်လ ၂၀၂၆)",
+    "video_id": "KFor0SjKn3w",
+    "published": "2026-06-05T08:30:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:30:06",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=KFor0SjKn3w"
+  },
+  {
+    "title": "မိုဂါဒီရှူးက သွေးစွန်းသော လမ်းမများ",
+    "video_id": "xLlmHEP2y7s",
+    "published": "2026-06-05T08:13:20+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:13:20",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=xLlmHEP2y7s"
+  },
+  {
+    "title": "Israel strikes Lebanon after 'last chance' truce announcement",
+    "video_id": "ESJVWBFOizA",
+    "published": "2026-06-05T08:13:14+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:13:14",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=ESJVWBFOizA"
+  },
+  {
+    "title": "ချင်းတောင်ပိုင်းကို အင်အား ၂ ထောင်ကျော်နဲ့ စစ်တပ် ထိုးစစ်ဆင်လို့ တိုက်ပွဲပြင်းထန်",
+    "video_id": "7XXxz7z9olg",
+    "published": "2026-06-05T08:05:58+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:05:58",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=7XXxz7z9olg"
+  },
+  {
+    "title": "ပူတင်နှင့် တွေ့ရန် အိတ်ဖွင့်ပေးစာပေး",
+    "video_id": "NCkaINHls64",
+    "published": "2026-06-05T08:05:55+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:05:55",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=NCkaINHls64"
+  },
+  {
+    "title": "ဒီနှစ် မုတ်သုံမိုးက ပိုပြင်းထန်မလား",
+    "video_id": "0Tj34nJpcwo",
+    "published": "2026-06-05T08:03:51+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:03:51",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=0Tj34nJpcwo"
+  },
+  {
+    "title": "စစ်ခေါင်းဆောင်ကို ထိတွေ့ဆက်ဆံခဲ့တဲ့ အိန္ဒိယဝန်ကြီးချုပ်ရဲ့လုပ်ရပ်ကို ဆန္ဒထုတ်ဖော်- DVB News",
+    "video_id": "dlhE29cZe1g",
+    "published": "2026-06-05T08:00:56+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:00:56",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=dlhE29cZe1g"
+  },
+  {
+    "title": "လူကို အသက်ရှည်စေတဲ့ မေ့လျော့ခံ ကိုယ်အင်္ဂါ အစိတ်အပိုင်း",
+    "video_id": "T1ZfnFOE4yg",
+    "published": "2026-06-05T07:49:54+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:49:54",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=T1ZfnFOE4yg"
+  },
+  {
+    "title": "ကျူးဘားမှာ Visa နဲ့ Mastercard အသုံးပြုမှု ရပ်ဆိုင်းမယ်- DVB News",
+    "video_id": "yPMl8m5G0bY",
+    "published": "2026-06-05T07:45:30+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "07:45:30",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=yPMl8m5G0bY"
+  },
+  {
+    "title": "မြန်မာစစ်အာဏာရှင်အပေါ် တရုတ်ဩဇာလွှမ်းမိုးမှုကြီးမားကြောင်း အမေရိကန်နိုင်ငံခြားရေးဝန်ကြီး ပြောကြား",
+    "video_id": "rcNUmY9rk0M",
+    "published": "2026-06-05T07:20:38+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:20:38",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=rcNUmY9rk0M"
+  },
+  {
+    "title": "အစားထိုးသုံးနိုင်မယ့် ပြည်တွင်းဖြစ် DME လောင်စာဆီကို အိန္ဒိယသိပ္ပံပညာရှင်များ တီထွင်| My India",
+    "video_id": "cYF6aprY5qw",
+    "published": "2026-06-05T07:00:34+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:00:34",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=cYF6aprY5qw"
+  },
+  {
+    "title": "၂၀၂၈ မှာ ဗန့်စ်နှင့် ရူဘီယို အလှည့်ဟု ထရမ့်ခန့်မှန်း  - DVB News",
+    "video_id": "3W5giLFnzh4",
+    "published": "2026-06-05T06:58:04+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "06:58:04",
+    "date": "2026-06-05",
+    "youtube_link": "https://www.youtube.com/watch?v=3W5giLFnzh4"
+  },
+  {
     "title": "(ချင်း) တိုင်းရင်းသားဘာသာ သတင်းအစီအစဉ် - DVB",
     "video_id": "2bxFBa4lni8",
     "published": "2026-06-05T06:00:37+00:00",
