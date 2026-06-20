@@ -1,5 +1,85 @@
 [
   {
+    "title": "(ကချင်) တိုင်းရင်းသားဘာသာ သတင်းအစီအစဉ် - DVB",
+    "video_id": "5zQY4XfDzTQ",
+    "published": "2026-06-20T10:00:30+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:00:30",
+    "date": "2026-06-20",
+    "youtube_link": "https://www.youtube.com/watch?v=5zQY4XfDzTQ"
+  },
+  {
+    "title": "ကလေးများအတွက်  သင့်တော်သောနည်းလမ်းများဖြင့် ထိန်းကျောင်းဆုံးမခြင်း I Key to Health 95",
+    "video_id": "Haza_xMI444",
+    "published": "2026-06-20T09:56:10+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "09:56:10",
+    "date": "2026-06-20",
+    "youtube_link": "https://www.youtube.com/watch?v=Haza_xMI444"
+  },
+  {
+    "title": "ကုလရုံးချုပ်ရှေ့မှာ ဒေါ်အောင်ဆန်းစုကြည်အတွက် အသံတိတ်ဆန္ဒပြ- DVB News",
+    "video_id": "nA4Gi0SRPig",
+    "published": "2026-06-20T09:15:33+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "09:15:33",
+    "date": "2026-06-20",
+    "youtube_link": "https://www.youtube.com/watch?v=nA4Gi0SRPig"
+  },
+  {
+    "title": "မက္ကဆီကိုက ကမ္ဘာ့ဖလားသံတမန် ဘဲလေးမာလင် - BBC News မြန်မာ",
+    "video_id": "obeEAcy1p0U",
+    "published": "2026-06-20T09:03:11+00:00",
+    "channel": "BBC News မြန်မာ",
+    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
+    "time": "09:03:11",
+    "date": "2026-06-20",
+    "youtube_link": "https://www.youtube.com/watch?v=obeEAcy1p0U"
+  },
+  {
+    "title": "ငွေဈေး ရွှေဈေး (၂၀ ရက် ဇွန်လ ၂၀၂၆ ညနေပိုင်း)",
+    "video_id": "OPT6V8u5HwY",
+    "published": "2026-06-20T08:45:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:45:06",
+    "date": "2026-06-20",
+    "youtube_link": "https://www.youtube.com/watch?v=OPT6V8u5HwY"
+  },
+  {
+    "title": "DVB Digital ညနေ ၃ နာရီသတင်း (၂၀ ရက် ဇွန်လ ၂၀၂၆)",
+    "video_id": "X3DDC0OQ4xU",
+    "published": "2026-06-20T08:29:26+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:29:26",
+    "date": "2026-06-20",
+    "youtube_link": "https://www.youtube.com/watch?v=X3DDC0OQ4xU"
+  },
+  {
+    "title": "ဒေါ်အောင်ဆန်းစုကြည် မွေးနေ့ ချင်းမိုင်ရောက် ဂေါ်ရခါးလူငယ်အဖွဲ့ သွေးလှူဒါန်း- DVB News",
+    "video_id": "nmnHJfskWqM",
+    "published": "2026-06-20T08:00:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:00:06",
+    "date": "2026-06-20",
+    "youtube_link": "https://www.youtube.com/watch?v=nmnHJfskWqM"
+  },
+  {
+    "title": "အိန္ဒိယ၏ ကမ္ဘာ့သံတမန်ရေးရာနှင့် Quad အစည်းအဝေး | My India",
+    "video_id": "KKVrVVZMgJ4",
+    "published": "2026-06-20T07:43:46+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:43:46",
+    "date": "2026-06-20",
+    "youtube_link": "https://www.youtube.com/watch?v=KKVrVVZMgJ4"
+  },
+  {
     "title": "Mizzima Weekly Sports အစီအစဉ် I 20 June 2026",
     "video_id": "bwK_X_GeAPs",
     "published": "2026-06-20T07:30:06+00:00",
@@ -1918,85 +1998,5 @@
     "time": "09:29:52",
     "date": "2026-06-17",
     "youtube_link": "https://www.youtube.com/watch?v=05JwKbZCpzw"
-  },
-  {
-    "title": "ဧရာဝတီနဲ့တနင်္သာရီ ကမ်းလွန်တို့မှာ သဘာဝဓာတ်ငွေ့သိုက်တွေ တွေ့ရှိတယ်လို့ဆို- DVB News",
-    "video_id": "blDip6ytB5g",
-    "published": "2026-06-17T09:15:08+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:15:08",
-    "date": "2026-06-17",
-    "youtube_link": "https://www.youtube.com/watch?v=blDip6ytB5g"
-  },
-  {
-    "title": "မော်စကိုမြို့က အကြီးဆုံး ရေနံချက်စက်ရုံ ယူကရိန်း ဒရုန်းတိုက်ခိုက်မှုကြောင့် ရပ်တန့်",
-    "video_id": "HhKu5bHQGDc",
-    "published": "2026-06-17T09:09:42+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "09:09:42",
-    "date": "2026-06-17",
-    "youtube_link": "https://www.youtube.com/watch?v=HhKu5bHQGDc"
-  },
-  {
-    "title": "⚽︎ ၂၀၂၆ ကမ္ဘာ့ဖလား 🏆🌍 အိမ်ရှင် (၃) နိုင်ငံ ⚽  World Cup 2026",
-    "video_id": "i3bYC-1p45c",
-    "published": "2026-06-17T08:53:20+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "08:53:20",
-    "date": "2026-06-17",
-    "youtube_link": "https://www.youtube.com/watch?v=i3bYC-1p45c"
-  },
-  {
-    "title": "နွေဦးပြည်သူတို့အတွက် ကသစ်ပင် ဆေးဖက်ဝင်",
-    "video_id": "-rOxWwurZVw",
-    "published": "2026-06-17T08:46:36+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "08:46:36",
-    "date": "2026-06-17",
-    "youtube_link": "https://www.youtube.com/watch?v=-rOxWwurZVw"
-  },
-  {
-    "title": "DVB Digital ညနေ ၃ နာရီသတင်း (၁၇ ရက် ဇွန်လ ၂၀၂၆)",
-    "video_id": "zDGNaJ1DP6s",
-    "published": "2026-06-17T08:30:07+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "08:30:07",
-    "date": "2026-06-17",
-    "youtube_link": "https://www.youtube.com/watch?v=zDGNaJ1DP6s"
-  },
-  {
-    "title": "အီရန်စစ်ပွဲပြီးဖို့နဲ့ ရုရှား-ယူကရိန်းပြဿနာ ပြေလည်ဖို့ G7 ထိပ်သီးခေါင်းဆောင်တွေ လိုလားနေ",
-    "video_id": "55EsxT95MD4",
-    "published": "2026-06-17T08:19:49+00:00",
-    "channel": "Myanmar Now News",
-    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
-    "time": "08:19:49",
-    "date": "2026-06-17",
-    "youtube_link": "https://www.youtube.com/watch?v=55EsxT95MD4"
-  },
-  {
-    "title": "(ကချင်) တိုင်းရင်းသားဘာသာ သတင်းအစီအစဉ် - DVB",
-    "video_id": "DqF7nILVaZI",
-    "published": "2026-06-17T08:15:23+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "08:15:23",
-    "date": "2026-06-17",
-    "youtube_link": "https://www.youtube.com/watch?v=DqF7nILVaZI"
-  },
-  {
-    "title": "🚨လူငယ်တွေ လက်နက်ကိုင်မှ ရတော့မယ်ဆိုတဲ့စိတ်တွေဝင်လာအောင် အဲဒီထောင့် ကိုပို့လိုက်သလို ဖြစ်သွားတယ်🚨",
-    "video_id": "fyK4_nxCskE",
-    "published": "2026-06-17T08:15:04+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "08:15:04",
-    "date": "2026-06-17",
-    "youtube_link": "https://www.youtube.com/watch?v=fyK4_nxCskE"
   }
 ]
