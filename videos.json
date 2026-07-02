@@ -1,5 +1,85 @@
 [
   {
+    "title": "ဘီဘီစီမြန်မာတီဗီ",
+    "video_id": "qJ7A0UoomIA",
+    "published": "2026-07-02T13:15:00+00:00",
+    "channel": "BBC News မြန်မာ",
+    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
+    "time": "13:15:00",
+    "date": "2026-07-02",
+    "youtube_link": "https://www.youtube.com/watch?v=qJ7A0UoomIA"
+  },
+  {
+    "title": "ဇူလိုင် ၂ ရက် ၊ ည ၇ နာရီ ၊ The Mizzima Primetime မဇ္စျိမ သတင်းအစီအစဥ်",
+    "video_id": "_lhhjfIInXw",
+    "published": "2026-07-02T13:04:29+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "13:04:29",
+    "date": "2026-07-02",
+    "youtube_link": "https://www.youtube.com/watch?v=_lhhjfIInXw"
+  },
+  {
+    "title": "July 2 [ 7 PM ] The Mizzima Primetime I Mizzima Headline News",
+    "video_id": "SyCMgTsA92U",
+    "published": "2026-07-02T12:53:47+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "12:53:47",
+    "date": "2026-07-02",
+    "youtube_link": "https://www.youtube.com/watch?v=SyCMgTsA92U"
+  },
+  {
+    "title": "ပြည်တွင်းစစ်ကြောင့် သေဆုံးသူ ၁ သိန်းကျော် ရှိလာ🚨 ည ၇ နာရီ သတင်း (DVB Digital ၂ ရက် ဇူလိုင်လ ၂၀၂၆)",
+    "video_id": "0VLv5gnfnKI",
+    "published": "2026-07-02T12:30:07+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "12:30:07",
+    "date": "2026-07-02",
+    "youtube_link": "https://www.youtube.com/watch?v=0VLv5gnfnKI"
+  },
+  {
+    "title": "အိမ်ရှင် ၃ သင်းလုံး ရှေ့ဆက်၊ နောက်ကျဂိုးတွေနဲ့ ပြည့်နှက်တဲ့ ကမ္ဘာ့ဖလားည",
+    "video_id": "5Hu-Cc2c5pY",
+    "published": "2026-07-02T12:10:18+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "12:10:18",
+    "date": "2026-07-02",
+    "youtube_link": "https://www.youtube.com/watch?v=5Hu-Cc2c5pY"
+  },
+  {
+    "title": "ကိုယ်ဝန်ဆောင်တွေကို ပြည်ဝင်ခွင့် ကန့်သတ်ဖို့ ထရမ့် စီစဉ်နေ🌏နိုင်ငံတကာ သတင်းများ - DVB News",
+    "video_id": "0GW8jIQVrJ4",
+    "published": "2026-07-02T12:00:07+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "12:00:07",
+    "date": "2026-07-02",
+    "youtube_link": "https://www.youtube.com/watch?v=0GW8jIQVrJ4"
+  },
+  {
+    "title": "DVB TV နေ့စဉ်သတင်း အနှစ်ချုပ် - Daily News Briefing (02.07.2026)",
+    "video_id": "yib9D7TpdZo",
+    "published": "2026-07-02T11:11:41+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "11:11:41",
+    "date": "2026-07-02",
+    "youtube_link": "https://www.youtube.com/watch?v=yib9D7TpdZo"
+  },
+  {
+    "title": "ပုဂံကို ပြည်တွင်း ခရီးသွားလာမှုနည်းပါးနေတဲ့ အဓိကအကြောင်း- DVB News",
+    "video_id": "iyHGqWS5OJI",
+    "published": "2026-07-02T11:11:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "11:11:06",
+    "date": "2026-07-02",
+    "youtube_link": "https://www.youtube.com/watch?v=iyHGqWS5OJI"
+  },
+  {
     "title": "လာအိုမှာဖမ်းမိတဲ့ ထိုင်းရဲအယောင်ဆောင် ၂၄ ဦးကို ထိုင်းသို့ပြန်ပို့",
     "video_id": "WZ_L4HfkVHc",
     "published": "2026-07-02T11:06:59+00:00",
@@ -1918,85 +1998,5 @@
     "time": "13:15:30",
     "date": "2026-06-29",
     "youtube_link": "https://www.youtube.com/watch?v=w0DjsRHYM48"
-  },
-  {
-    "title": "Aerial shots show destruction in #Venezuela after twin #earthquakes",
-    "video_id": "UY-xbCA6O0s",
-    "published": "2026-06-29T12:53:25+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "12:53:25",
-    "date": "2026-06-29",
-    "youtube_link": "https://www.youtube.com/watch?v=UY-xbCA6O0s"
-  },
-  {
-    "title": "ဇွန်လ ၂၉ ရက်၊ ည ၇ နာရီ ၊ The Mizzima Primetime မဇ္စျိမ သတင်းအစီအစဥ်",
-    "video_id": "EpqrP8BUw7o",
-    "published": "2026-06-29T12:50:41+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "12:50:41",
-    "date": "2026-06-29",
-    "youtube_link": "https://www.youtube.com/watch?v=EpqrP8BUw7o"
-  },
-  {
-    "title": "အချင်းချင်းကြားက လုပ်ကြံမှုနဲ့ NUG အတွက် စိန်ခေါ်မှု",
-    "video_id": "qfUA9mR5OQ4",
-    "published": "2026-06-29T12:45:32+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "12:45:32",
-    "date": "2026-06-29",
-    "youtube_link": "https://www.youtube.com/watch?v=qfUA9mR5OQ4"
-  },
-  {
-    "title": "ယင်းမာပင်ခရိုင်ကွပ်ကဲရေးမှူးကိုဖမ်းဆီးထားကြောင်းNUG ပြည်ထဲရေးဌာန ဒုဝန်ကြီး ဦးကျော်နီကအတည်ပြုသည်။",
-    "video_id": "sbmN-KwNj6g",
-    "published": "2026-06-29T12:43:37+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "12:43:37",
-    "date": "2026-06-29",
-    "youtube_link": "https://www.youtube.com/watch?v=sbmN-KwNj6g"
-  },
-  {
-    "title": "June 30  [ 7 PM ] The Mizzima Primetime",
-    "video_id": "45ffdq1GH_I",
-    "published": "2026-06-29T12:40:07+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "12:40:07",
-    "date": "2026-06-29",
-    "youtube_link": "https://www.youtube.com/watch?v=45ffdq1GH_I"
-  },
-  {
-    "title": "ပူတင်ရဲ့အိမ်တော်လုံခြုံရေးအတွက် လေကြောင်းရန် ကာကွယ်ရေးစနစ်များ တိုးမြှင့်တပ်ဆင်",
-    "video_id": "2UirsRjjC9k",
-    "published": "2026-06-29T12:37:31+00:00",
-    "channel": "Myanmar Now News",
-    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
-    "time": "12:37:31",
-    "date": "2026-06-29",
-    "youtube_link": "https://www.youtube.com/watch?v=2UirsRjjC9k"
-  },
-  {
-    "title": "ဇွန်လ ၂၉ ရက်  တနင်္လာနေ့ ညပိုင်း မဇ္ဈိမရေဒီယိုအစီအစဉ်",
-    "video_id": "_ja6AecATAI",
-    "published": "2026-06-29T12:30:56+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "12:30:56",
-    "date": "2026-06-29",
-    "youtube_link": "https://www.youtube.com/watch?v=_ja6AecATAI"
-  },
-  {
-    "title": "ဒေါ်အောင်ဆန်းစုကြည် ကျန်းမာရေး ပိုဆိုးရွားလာနေဟုဆို🚨 ည ၇ နာရီ သတင်း (DVB Digital ၂၉ ရက် ဇွန်လ ၂၀၂၆)",
-    "video_id": "dhk9V0rWd9U",
-    "published": "2026-06-29T12:30:06+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "12:30:06",
-    "date": "2026-06-29",
-    "youtube_link": "https://www.youtube.com/watch?v=dhk9V0rWd9U"
   }
 ]
