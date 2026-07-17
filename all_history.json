@@ -1,5 +1,295 @@
 [
   {
+    "title": "နေ့စဉ် မိုးလေဝသ ခန့်မှန်းချက် - DVB Weather (၁၇ ရက် ဇူလိုင်လ ၂၀၂၆ ညနေပိုင်း)",
+    "video_id": "CqUreZWs4NY",
+    "published": "2026-07-17T08:49:34+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:49:34",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=CqUreZWs4NY"
+  },
+  {
+    "title": "ဒေါ်အောင်ဆန်းစုကြည်နဲ့ အာဆီယံအထူးသံတမန် တွေ့ဆုံခွင့်ရရှိရေး ထိုင်းက တိုက်တွန်း",
+    "video_id": "I1Dm2LOqmPY",
+    "published": "2026-07-17T08:46:16+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:46:16",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=I1Dm2LOqmPY"
+  },
+  {
+    "title": "အဖမ်းအဆီးကြမ်းလာတဲ့ မလေးရှားမှာ မြန်မာတွေ ဘယ်လောက်စိုးရိမ်နေရလဲ",
+    "video_id": "ImdBpLQzg5w",
+    "published": "2026-07-17T08:37:10+00:00",
+    "channel": "Myanmar Now News",
+    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
+    "time": "08:37:10",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=ImdBpLQzg5w"
+  },
+  {
+    "title": "DVB Digital ညနေ ၃ နာရီ သတင်း (၁၇ ရက် ဇူလိုင်လ ၂၀၂၆)",
+    "video_id": "yMdwVLRc_So",
+    "published": "2026-07-17T08:30:07+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:30:07",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=yMdwVLRc_So"
+  },
+  {
+    "title": "မြဝတီတောင်ပိုင်း တိုက်ပွဲများ ဆက်လက်ပြင်းထန်၊ စစ်အုပ်စုတပ် အကျအဆုံးများပြီး ၄ ဦး အရှင်ဖမ်းမိဟုဆို",
+    "video_id": "kSWKmsDsHfc",
+    "published": "2026-07-17T08:28:46+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:28:46",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=kSWKmsDsHfc"
+  },
+  {
+    "title": "တရုတ်တွင် လူနေရပ်ကွက်ပေါ် တောင်စောင်း ပြိုကျ၍ လူများ ပိတ်မိ",
+    "video_id": "_bIELyy6MCQ",
+    "published": "2026-07-17T08:11:56+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:11:56",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=_bIELyy6MCQ"
+  },
+  {
+    "title": "တရုတ်တွင် လူနေရပ်ကွက်ပေါ် တောင်စောင်း ပြိုကျ၍ လူများ ပိတ်မိ",
+    "video_id": "ETaW2nP0TCU",
+    "published": "2026-07-17T08:09:06+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:09:06",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=ETaW2nP0TCU"
+  },
+  {
+    "title": "မန္တလေးတိုင်းမှာ မြေငလျင် ၂ ကြိမ်လှုပ်",
+    "video_id": "6wNOFNu12-E",
+    "published": "2026-07-17T08:01:11+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:01:11",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=6wNOFNu12-E"
+  },
+  {
+    "title": "အမေရိကန် တိုက်လေယာဉ် ကမ်းခြေလူအုပ်ပေါ်မှ ခပ်နိမ့်နိမ့် ဖြတ်ပျံ၍ ရုတ်ရုတ်သဲသဲ ဖြစ်",
+    "video_id": "LsjyELGx9O0",
+    "published": "2026-07-17T07:56:26+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:56:26",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=LsjyELGx9O0"
+  },
+  {
+    "title": "DVB TV ညနေခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE (၁၇ ရက် ဇူလိုင်လ ၂၀၂၆)",
+    "video_id": "b3r6tVqXBos",
+    "published": "2026-07-17T07:54:58+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "07:54:58",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=b3r6tVqXBos"
+  },
+  {
+    "title": "အမေရိကန် တိုက်လေယာဉ် ကမ်းခြေလူအုပ်ပေါ်မှ ခပ်နိမ့်နိမ့် ဖြတ်ပျံ၍ ရုတ်ရုတ်သဲသဲ ဖြစ်",
+    "video_id": "JcgS_mEjcvw",
+    "published": "2026-07-17T07:51:54+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:51:54",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=JcgS_mEjcvw"
+  },
+  {
+    "title": "DVB TV နေ့လယ်ခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE (၁၇ ရက် ဇူလိုင်လ ၂၀၂၆)",
+    "video_id": "MBQHXYy9x6o",
+    "published": "2026-07-17T07:50:00+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "07:50:00",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=MBQHXYy9x6o"
+  },
+  {
+    "title": "‘ကျုပ်တို့ မီးတောက်တွေကြားထဲ ပိတ်မိနေပြီ’ - တောမီးအလယ် ရပ်တန့်သွားသည့် ရထား",
+    "video_id": "Ex-ytwTCmpI",
+    "published": "2026-07-17T07:45:38+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:45:38",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=Ex-ytwTCmpI"
+  },
+  {
+    "title": "‘ကျုပ်တို့ မီးတောက်တွေကြားထဲ ပိတ်မိနေပြီ’ - တောမီးအလယ် ရပ်တန့်သွားသည့် ရထား",
+    "video_id": "WicWowMD8YE",
+    "published": "2026-07-17T07:42:00+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:42:00",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=WicWowMD8YE"
+  },
+  {
+    "title": "DVB TV 📺 တပတ်အတွင်း ထူးခြားသတင်း (၁၇ ရက် ဇူလိုင်လ ၂၀၂၆)",
+    "video_id": "EZQsDqEeazI",
+    "published": "2026-07-17T07:41:56+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "07:41:56",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=EZQsDqEeazI"
+  },
+  {
+    "title": "ဘန်ကောက် ညရိုင်း ပက်ပုန်းရဲ့ လျှို့ဝှက်သမိုင်း",
+    "video_id": "r3UOUPpWTDY",
+    "published": "2026-07-17T07:33:00+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:33:00",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=r3UOUPpWTDY"
+  },
+  {
+    "title": "ဘန်ကောက် ညရိုင်း ပက်ပုန်းရဲ့ လျှို့ဝှက်သမိုင်း",
+    "video_id": "zoBnejVt5rs",
+    "published": "2026-07-17T07:26:49+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:26:49",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=zoBnejVt5rs"
+  },
+  {
+    "title": "“တွေ့ဆုံတာ ကွဲပြားနေပါစေ SCEF အခြေခံနဲ့ပဲ ဒီတွေ့ဆုံမှုတွေ အားလုံးကို ချဉ်းကပ်ဖြစ်တယ်” နဲနယ်ပလိုး",
+    "video_id": "RSmWhEAsVVM",
+    "published": "2026-07-17T07:00:57+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:00:57",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=RSmWhEAsVVM"
+  },
+  {
+    "title": "စစ်အာဏာရှင် တိုက်ထုတ်ဖို့တင်မက စနစ်တခုတည်ဆောက်ဖို့ လူထုလှုပ်ရှားမှုတွေ လိုအပ်နေဦးမယ် - DVB Interview",
+    "video_id": "Pic1tfOa_U8",
+    "published": "2026-07-17T07:00:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "07:00:06",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=Pic1tfOa_U8"
+  },
+  {
+    "title": "မြိုင်တွင် စစ်အုပ်စုက ဒေသခံ ၁ ဦးကိုသတ်ဖြတ်၊ လေယာဉ်ဖြင့် စစ်အုပ်စုအတွက် ရိက္ခာ ၁၀ ကြိမ်ထက်မနည်း ချပေး",
+    "video_id": "ObxBs-MDMaI",
+    "published": "2026-07-17T06:22:45+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "06:22:45",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=ObxBs-MDMaI"
+  },
+  {
+    "title": "🚨လောင်စာဆီအကျပ်အတည်းမှာ မြန်မာနိုင်ငံက ဘာလို့သူများထက် ပိုခံနေရတာလဲ🚨",
+    "video_id": "sWeZmRwL2iQ",
+    "published": "2026-07-17T06:16:02+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "06:16:02",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=sWeZmRwL2iQ"
+  },
+  {
+    "title": "Khit Thit Afternoon News |17 July 2026",
+    "video_id": "u2AGFEYfmRU",
+    "published": "2026-07-17T06:00:29+00:00",
+    "channel": "Khit Thit Media",
+    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
+    "time": "06:00:29",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=u2AGFEYfmRU"
+  },
+  {
+    "title": "ချောက်မှာ တော်လှန်ရေး ရဲဘော် ၂၀ ကို သတ်ခဲ့တဲ့ ရဲယာဉ်တန်းကို ဆိပ်ဖြူမှာ မိုင်းဆွဲ",
+    "video_id": "4VmNNGuY8ak",
+    "published": "2026-07-17T05:41:46+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "05:41:46",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=4VmNNGuY8ak"
+  },
+  {
+    "title": "DVB Digital မနက် ၁၁ နာရီ သတင်း (၁၇ ရက် ဇူလိုင်လ ၂၀၂၆)",
+    "video_id": "85f-vPaqJco",
+    "published": "2026-07-17T04:30:07+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "04:30:07",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=85f-vPaqJco"
+  },
+  {
+    "title": "ပီလီအင်္ကျီ ဒုတိယဈေးအကြီးဆုံးစံချိန်တင်",
+    "video_id": "Ozc-8Fz7B8U",
+    "published": "2026-07-17T04:17:56+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "04:17:56",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=Ozc-8Fz7B8U"
+  },
+  {
+    "title": "AAစစ်ဦးစီးချုပ်ဗိုလ်ချုပ်ထွန်းမြတ်နိုင်နဲ့ပတ်သက်ပြီးစစ်လော်ဘီချန်နယ်တွေကဖြန့်နေတဲ့သတင်းအမှားများ?",
+    "video_id": "dyJcABZFveM",
+    "published": "2026-07-17T04:13:50+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "04:13:50",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=dyJcABZFveM"
+  },
+  {
+    "title": "ငွေဈေး ရွှေဈေး (၁၇ ရက် ဇူလိုင်လ ၂၀၂၆ မနက်ပိုင်း)",
+    "video_id": "dmrLdc3b-5s",
+    "published": "2026-07-17T04:02:19+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "04:02:19",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=dmrLdc3b-5s"
+  },
+  {
+    "title": "Myanmar's Hidden Crisis: Surviving War and Trauma",
+    "video_id": "vQJ6WbXcc4A",
+    "published": "2026-07-17T03:59:43+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "03:59:43",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=vQJ6WbXcc4A"
+  },
+  {
+    "title": "Khit Thit Morning News |17 July 2026",
+    "video_id": "-b4ixn_hTXM",
+    "published": "2026-07-17T02:00:38+00:00",
+    "channel": "Khit Thit Media",
+    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
+    "time": "02:00:38",
+    "date": "2026-07-17",
+    "youtube_link": "https://www.youtube.com/watch?v=-b4ixn_hTXM"
+  },
+  {
     "title": "\"အာဇာနည်နေ့ဆိုတာ ဂုဏ်ယူစရာမရှိတဲ့ သမိုင်းရဲ့ အမည်းစက်ကြီးဖြစ်တယ်\" 🗣️ DVB Talkshow",
     "video_id": "nbr_fA_41Rk",
     "published": "2026-07-17T01:00:06+00:00",
