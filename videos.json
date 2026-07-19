@@ -1,5 +1,15 @@
 [
   {
+    "title": "PVTV - တပတ်အတွင်း သတင်းဒိုင်ဂျက် (19 July 2026)",
+    "video_id": "KjxjYUhzW0c",
+    "published": "2026-07-19T23:21:51+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "23:21:51",
+    "date": "2026-07-19",
+    "youtube_link": "https://www.youtube.com/watch?v=KjxjYUhzW0c"
+  },
+  {
     "title": "TNLA ကိုယ်စားလှယ်အဖွဲ့ နေပြည်တော်တွင် သွားရောက်ဆွေးနွေးနေကြောင်း အတည်ပြု",
     "video_id": "H5wyvGagKKg",
     "published": "2026-07-19T15:16:01+00:00",
@@ -88,6 +98,16 @@
     "time": "14:00:06",
     "date": "2026-07-19",
     "youtube_link": "https://www.youtube.com/watch?v=na6nU5bngPg"
+  },
+  {
+    "title": "DVB Digital မနက် ၇ နာရီ သတင်း (၂၀ ရက် ဇူလိုင်လ ၂၀၂၆)",
+    "video_id": "JBnsRUKvkCg",
+    "published": "2026-07-19T13:56:18+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "13:56:18",
+    "date": "2026-07-19",
+    "youtube_link": "https://www.youtube.com/watch?v=JBnsRUKvkCg"
   },
   {
     "title": "၁၀ ဂိုးအထိ မြင်တွေ့ခဲ့ရတဲ့ တတိယနေရာလုပွဲ၊ အင်္ဂလန်က ပြင်သစ်ကို ကျော်ဖြတ်ပြီး ကြေးတံဆိပ်ဆွတ်ခူး",
@@ -1978,25 +1998,5 @@
     "time": "11:00:12",
     "date": "2026-07-16",
     "youtube_link": "https://www.youtube.com/watch?v=eeCVtQA3daE"
-  },
-  {
-    "title": "ဒီဗွီဘီ သတင်း ပေါ့ကတ်စ် (၁၆ ရက် ဇူလိုင်လ ၂၀၂၆) - DVB Newsbreak",
-    "video_id": "BnluZXTetcY",
-    "published": "2026-07-16T10:46:32+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "10:46:32",
-    "date": "2026-07-16",
-    "youtube_link": "https://www.youtube.com/watch?v=BnluZXTetcY"
-  },
-  {
-    "title": "ဇူလိုင်လ ၁၆ ရက်နေ့၊ ညနေ ၅ နာရီထိ နောက်ဆုံးရငွေစျေးနှုန်းများ",
-    "video_id": "7Mpi9XjOChw",
-    "published": "2026-07-16T10:40:06+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "10:40:06",
-    "date": "2026-07-16",
-    "youtube_link": "https://www.youtube.com/watch?v=7Mpi9XjOChw"
   }
 ]
