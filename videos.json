@@ -1,5 +1,55 @@
 [
   {
+    "title": "ငွေဈေး ရွှေဈေး (၉ ရက် သြဂုတ်လ ၂၀၂၆ မနက်ပိုင်း)",
+    "video_id": "SAHbyXstp2o",
+    "published": "2026-08-09T03:51:18+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "03:51:18",
+    "date": "2026-08-09",
+    "youtube_link": "https://www.youtube.com/watch?v=SAHbyXstp2o"
+  },
+  {
+    "title": "(မွန်) တိုင်းရင်းသားဘာသာ သတင်းအစီအစဉ် - DVB",
+    "video_id": "5tTurn5MJxo",
+    "published": "2026-08-09T03:45:03+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "03:45:03",
+    "date": "2026-08-09",
+    "youtube_link": "https://www.youtube.com/watch?v=5tTurn5MJxo"
+  },
+  {
+    "title": "ဝင်ငွေက မတက်၊ ကုန်ဈေးနှုန်း ခေါင်ခိုက်မှုဒဏ်ကို ကျောကော့အောင် ခံနေရတဲ့ ပြည်သူတွေ",
+    "video_id": "Mg9zE7ist5E",
+    "published": "2026-08-09T03:24:17+00:00",
+    "channel": "Myanmar Now News",
+    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
+    "time": "03:24:17",
+    "date": "2026-08-09",
+    "youtube_link": "https://www.youtube.com/watch?v=Mg9zE7ist5E"
+  },
+  {
+    "title": "(ကချင်) တိုင်းရင်းသားဘာသာ သတင်းအစီအစဉ် - DVB News",
+    "video_id": "PJR87s2g7Ck",
+    "published": "2026-08-09T03:08:08+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "03:08:08",
+    "date": "2026-08-09",
+    "youtube_link": "https://www.youtube.com/watch?v=PJR87s2g7Ck"
+  },
+  {
+    "title": "Weekly Choice -သတင်းအစီအစဉ်",
+    "video_id": "IoGdDgQRUTU",
+    "published": "2026-08-09T03:03:02+00:00",
+    "channel": "Khit Thit Media",
+    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
+    "time": "03:03:02",
+    "date": "2026-08-09",
+    "youtube_link": "https://www.youtube.com/watch?v=IoGdDgQRUTU"
+  },
+  {
     "title": "ရှစ်လေးလုံး ၃၈နှစ်မြောက် ထီးသပိတ် မဲလ်ဘုန်းမြို့ ပါလီမန်ရှေ့လှုပ်ရှား - DVB News",
     "video_id": "KCZeznDXJOA",
     "published": "2026-08-09T02:04:46+00:00",
@@ -1948,55 +1998,5 @@
     "time": "03:00:30",
     "date": "2026-08-06",
     "youtube_link": "https://www.youtube.com/watch?v=yHSP4JZXvi4"
-  },
-  {
-    "title": "သိုင်းရွိုက်ရောဂါ ကြိုတင်စစ်ဆေးပါ 📣 DVB Health",
-    "video_id": "MLtoQy8zLOg",
-    "published": "2026-08-06T02:15:17+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "02:15:17",
-    "date": "2026-08-06",
-    "youtube_link": "https://www.youtube.com/watch?v=MLtoQy8zLOg"
-  },
-  {
-    "title": "Khit Thit Morning News | 6 August 2026",
-    "video_id": "Y5A6lBfjWr0",
-    "published": "2026-08-06T02:00:27+00:00",
-    "channel": "Khit Thit Media",
-    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
-    "time": "02:00:27",
-    "date": "2026-08-06",
-    "youtube_link": "https://www.youtube.com/watch?v=Y5A6lBfjWr0"
-  },
-  {
-    "title": "အီရန်စစ်ပွဲမှာ အမေရိကန်တာဝေးပစ် တိကျဒုံးကျည် ကုန်လုနီးဖြစ် - DVB News",
-    "video_id": "bgUHkqlvKK0",
-    "published": "2026-08-06T01:56:38+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "01:56:38",
-    "date": "2026-08-06",
-    "youtube_link": "https://www.youtube.com/watch?v=bgUHkqlvKK0"
-  },
-  {
-    "title": "DVB TV နေ့လယ်ခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE (၆ ရက် သြဂုတ်လ ၂၀၂၆)",
-    "video_id": "gd1PXN_XNpI",
-    "published": "2026-08-06T01:54:14+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "01:54:14",
-    "date": "2026-08-06",
-    "youtube_link": "https://www.youtube.com/watch?v=gd1PXN_XNpI"
-  },
-  {
-    "title": "DVB TV မနက် ၈ နာရီ သတင်း (၆ ရက် သြဂုတ်လ ၂၀၂၆)",
-    "video_id": "paKUNlumjTU",
-    "published": "2026-08-06T01:52:03+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "01:52:03",
-    "date": "2026-08-06",
-    "youtube_link": "https://www.youtube.com/watch?v=paKUNlumjTU"
   }
 ]
