@@ -1,5 +1,25 @@
 [
   {
+    "title": "PVTV - တစ်ပတ်အတွင်း စစ်သတင်း (15 August 2026)",
+    "video_id": "QCV0Eg9TtBU",
+    "published": "2026-08-16T22:37:26+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "22:37:26",
+    "date": "2026-08-16",
+    "youtube_link": "https://www.youtube.com/watch?v=QCV0Eg9TtBU"
+  },
+  {
+    "title": "PVTV - တစ်ပတ်အတွင်း သတင်းဒိုင်ဂျက် (16 August 2026)",
+    "video_id": "nDkaeAZch9c",
+    "published": "2026-08-16T22:34:49+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "22:34:49",
+    "date": "2026-08-16",
+    "youtube_link": "https://www.youtube.com/watch?v=nDkaeAZch9c"
+  },
+  {
     "title": "ကိုယ့်မိတ်ကပ်အိတ်ထဲ ခိုတွေက လာသားပေါက်တဲ့အခါ - BBC News မြန်မာ",
     "video_id": "OLyvH4ah6bY",
     "published": "2026-08-16T16:13:10+00:00",
@@ -1978,25 +1998,5 @@
     "time": "07:41:26",
     "date": "2026-08-13",
     "youtube_link": "https://www.youtube.com/watch?v=7jphE0LdmDw"
-  },
-  {
-    "title": "(၇၆) နှစ်မြောက် ကရင့် အာဇာနည်နေ့ အခမ်းအနား မဲဆောက်မှာ ကျင်းပ - DVB News",
-    "video_id": "7sxl20obGOc",
-    "published": "2026-08-13T07:14:26+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "07:14:26",
-    "date": "2026-08-13",
-    "youtube_link": "https://www.youtube.com/watch?v=7sxl20obGOc"
-  },
-  {
-    "title": "မြောက်ကိုရီးယားက ရုရှားဆီ စစ်သည်အင်အား ထပ်မံစေလွှတ်",
-    "video_id": "AeCxAY8wp_s",
-    "published": "2026-08-13T06:51:51+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "06:51:51",
-    "date": "2026-08-13",
-    "youtube_link": "https://www.youtube.com/watch?v=AeCxAY8wp_s"
   }
 ]
