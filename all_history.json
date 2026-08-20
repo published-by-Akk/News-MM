@@ -1,5 +1,65 @@
 [
   {
+    "title": "DVB Digital ညနေ ၃ နာရီ သတင်း (၂၀ ရက် သြဂုတ်လ ၂၀၂၆)",
+    "video_id": "OVLPM9YNEFE",
+    "published": "2026-08-20T08:30:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:30:06",
+    "date": "2026-08-20",
+    "youtube_link": "https://www.youtube.com/watch?v=OVLPM9YNEFE"
+  },
+  {
+    "title": "ကိုယ်တွင်းအင်္ဂါများ ရောင်းချမှုကြောင့် ဟားဗတ်ဆေးကျောင်း လျော်ကြေးပေးရမည် - DVB News",
+    "video_id": "dsbsssTKhLo",
+    "published": "2026-08-20T08:17:06+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:17:06",
+    "date": "2026-08-20",
+    "youtube_link": "https://www.youtube.com/watch?v=dsbsssTKhLo"
+  },
+  {
+    "title": "စစ်အုပ်ချုပ်ရေးလက်အောက် မြို့ပြက ခိုးဆိုးလုနှိုက် ယန္တရား",
+    "video_id": "bsbpqWz9Irc",
+    "published": "2026-08-20T08:12:21+00:00",
+    "channel": "Myanmar Now News",
+    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
+    "time": "08:12:21",
+    "date": "2026-08-20",
+    "youtube_link": "https://www.youtube.com/watch?v=bsbpqWz9Irc"
+  },
+  {
+    "title": "မောင်တောမှာ ကမ်းပါးပြိုကျလို့ ဆေးရုံနဲ့ နေအိမ်တွေ အန္တရာယ်ရှိနေ - DVB News",
+    "video_id": "2TIGpe8spNg",
+    "published": "2026-08-20T08:03:54+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:03:54",
+    "date": "2026-08-20",
+    "youtube_link": "https://www.youtube.com/watch?v=2TIGpe8spNg"
+  },
+  {
+    "title": "စမ်းချောင်းက ခွင့်ပြုချက်မရတဲ့ ကန်ထရိုက်တိုက် ၃၀ ကျော်ကို စည်ပင် ပိတ်သိမ်း - DVB News",
+    "video_id": "RHISI9Cs-Z8",
+    "published": "2026-08-20T07:57:10+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "07:57:10",
+    "date": "2026-08-20",
+    "youtube_link": "https://www.youtube.com/watch?v=RHISI9Cs-Z8"
+  },
+  {
+    "title": "ရိုဟင်ဂျာများအား 'ဘင်္ဂါလီ' ဟု မြန်မာဘက်က သတ်မှတ်ခေါ်ဆိုမှုကို ဘင်္ဂလားဒေ့ရှ် ကန့်ကွက်(ရုပ်သံ)",
+    "video_id": "yt7CD_ytblQ",
+    "published": "2026-08-20T07:55:23+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:55:23",
+    "date": "2026-08-20",
+    "youtube_link": "https://www.youtube.com/watch?v=yt7CD_ytblQ"
+  },
+  {
     "title": "ဖမ်းထားတဲ့ ဘင်္ဂလားဒေ့ရှ် ငါးဖမ်းသမား ၂၄ ယောက်ကို AA ပြန်လွှဲပြောင်းပေး - DVB News",
     "video_id": "tmjmi0ClQ3k",
     "published": "2026-08-20T07:54:05+00:00",
@@ -8,6 +68,16 @@
     "time": "07:54:05",
     "date": "2026-08-20",
     "youtube_link": "https://www.youtube.com/watch?v=tmjmi0ClQ3k"
+  },
+  {
+    "title": "ရိုဟင်ဂျာများအား 'ဘင်္ဂါလီ' ဟု မြန်မာဘက်က သတ်မှတ်ခေါ်ဆိုမှုကို ဘင်္ဂလားဒေ့ရှ် ကန့်ကွက်(ရုပ်သံ)",
+    "video_id": "uXCYtWrPSLA",
+    "published": "2026-08-20T07:52:56+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:52:56",
+    "date": "2026-08-20",
+    "youtube_link": "https://www.youtube.com/watch?v=uXCYtWrPSLA"
   },
   {
     "title": "ငါးသိုင်းချောင်း တစ်မြို့လုံးနီးပါး ရေမြုပ်နေပြီး အကူအညီ အရေးပေါ်လိုနေ",
