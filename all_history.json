@@ -1,5 +1,245 @@
 [
   {
+    "title": "DVB Digital ညနေ ၃ နာရီ သတင်း (၆ ရက် အောက်တိုဘာလ ၂၀၂၆)",
+    "video_id": "hwmhxlooJKU",
+    "published": "2026-10-06T08:30:09+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:30:09",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=hwmhxlooJKU"
+  },
+  {
+    "title": "DVB TV ညနေခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE (၆ ရက် အောက်တိုဘာလ ၂၀၂၆)",
+    "video_id": "z6-iZOBPo3k",
+    "published": "2026-10-06T08:07:52+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:07:52",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=z6-iZOBPo3k"
+  },
+  {
+    "title": "ကျောက်တော်ဗုံးကြဲမှု နောက်ဆက်တွဲ ဆိုရှယ်မီဒီယာပေါ်  သတင်းမှားဆိုက်ဝါး သတိထားစရားများ - DVBFactCheck",
+    "video_id": "V-wHGbbJSfo",
+    "published": "2026-10-06T08:06:04+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "08:06:04",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=V-wHGbbJSfo"
+  },
+  {
+    "title": "Yoma Central စီမံကိန်းကို ရင်းနှီးမြှုပ်နှံမှုဖွဲ့စည်းပုံ ပြန်လည်ပြင်ဆင်- DVB News",
+    "video_id": "CmdFyKj5lc4",
+    "published": "2026-10-06T07:54:48+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "07:54:48",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=CmdFyKj5lc4"
+  },
+  {
+    "title": "DVB TV နေ့လယ်ခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE (၆ ရက် အောက်တိုဘာလ ၂၀၂၆)",
+    "video_id": "cS1o7PazUPo",
+    "published": "2026-10-06T07:48:26+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "07:48:26",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=cS1o7PazUPo"
+  },
+  {
+    "title": "အမေရိကန် ထိုးစစ်သစ်ကို တွန်းလှန်ရန် အီရန်က အမျိုးသမီးများကို စစ်သင်တန်းပေး",
+    "video_id": "8lQtoknf87o",
+    "published": "2026-10-06T07:43:58+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:43:58",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=8lQtoknf87o"
+  },
+  {
+    "title": "ရခိုင်တိုက်ပွဲ ဘက်စုံစစ်ပွဲအသွင် ပြောင်းလာတယ်လို့ ISP-Myanmar ပြော- DVB News",
+    "video_id": "XuVdZ1a9UAc",
+    "published": "2026-10-06T07:15:38+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "07:15:38",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=XuVdZ1a9UAc"
+  },
+  {
+    "title": "မင်းအောင်လှိုင်ခရီးစဉ်ကို သပိတ်မှောက်ဖို့ မလေးရောက် မြန်မာတွေကို တိုက်တွန်း- DVB News",
+    "video_id": "DvGdWVT-wCo",
+    "published": "2026-10-06T06:38:38+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "06:38:38",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=DvGdWVT-wCo"
+  },
+  {
+    "title": "စစ်တပ်ဖမ်းသွားတဲ့ စစ်ရှောင် ၁၂ ဦးရဲ့ ရုပ်ကြွင်းတွေ သုံးနှစ်ကျော်အကြာ ဘယ်လိုပြန်တွေ့ခဲ့လဲ",
+    "video_id": "gvObGVxEw04",
+    "published": "2026-10-06T06:37:58+00:00",
+    "channel": "Myanmar Now News",
+    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
+    "time": "06:37:58",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=gvObGVxEw04"
+  },
+  {
+    "title": "လှိုင်သာယာနဲ့ မြောက်ဒဂုံမှာ လုယက်မှုဖြစ်ပြီး အမျိုးသား ၂ ယောက်သေ၊ ကျပ်သိန်း ၈၀၀ ပါသွား",
+    "video_id": "ZOA-WG4Ss5g",
+    "published": "2026-10-06T06:27:53+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "06:27:53",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=ZOA-WG4Ss5g"
+  },
+  {
+    "title": "Khit Thit Afternoon News | 6 October 2026",
+    "video_id": "0KUwv_OqcxI",
+    "published": "2026-10-06T06:00:24+00:00",
+    "channel": "Khit Thit Media",
+    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
+    "time": "06:00:24",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=0KUwv_OqcxI"
+  },
+  {
+    "title": "(ရှမ်း) တိုင်းရင်းသားဘာသာ သတင်းအစီအစဉ် - DVB",
+    "video_id": "vOgZxckYXbg",
+    "published": "2026-10-06T06:00:23+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "06:00:23",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=vOgZxckYXbg"
+  },
+  {
+    "title": "🚨တရားဝင်မှု့အကြောင်းဆွေးနွေးမယ်ဆိုရင် တရားမျှတရဲ့လားဆိုတာပါထည့်သွင်းရမယ် 🚨",
+    "video_id": "0xfs2mQRxiU",
+    "published": "2026-10-06T05:41:11+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "05:41:11",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=0xfs2mQRxiU"
+  },
+  {
+    "title": "ရေကြည်၊ သာပေါင်းနဲ့ ဂွမြို့နယ်အစပ် ရိုးမနဲ့ထိစပ် ဝန်းကျင်မှာ တိုက်ပွဲတွေဆက်ဖြစ်- DVB News",
+    "video_id": "LmD64ytBaNw",
+    "published": "2026-10-06T05:30:09+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "05:30:09",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=LmD64ytBaNw"
+  },
+  {
+    "title": "ကွီတိုမြို့ရှိ ကက်သလစ် သူတော်စင်ပွဲတော်တွင် အိမ်မွေးတိရစ္ဆာန်များကို ကောင်းချီးပေး",
+    "video_id": "2g4mX93vOdo",
+    "published": "2026-10-06T05:08:51+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "05:08:51",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=2g4mX93vOdo"
+  },
+  {
+    "title": "AI ကြီးကြပ်ရန် Super Intelligence Force  ဖွဲ့စည်း - DVB News",
+    "video_id": "1mt0hB1E_c4",
+    "published": "2026-10-06T05:00:09+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "05:00:09",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=1mt0hB1E_c4"
+  },
+  {
+    "title": "DVB Digital မနက် ၁၁ နာရီ သတင်း (၆ ရက် အောက်တိုဘာလ ၂၀၂၆)",
+    "video_id": "JwIZraaM7rI",
+    "published": "2026-10-06T04:30:11+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "04:30:11",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=JwIZraaM7rI"
+  },
+  {
+    "title": "ပလိပ်ရောဂါ သံသယ ရုရှားကို အမေရိကန်ကူညီမည်ဟု ထရမ့်ပြော",
+    "video_id": "imWzWbowdCM",
+    "published": "2026-10-06T04:20:50+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "04:20:50",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=imWzWbowdCM"
+  },
+  {
+    "title": "သဖန်းဆိပ်ဆည် ရွှေဖောင်များ လေကြောင်းတိုက်ခိုက်ခံရ၊ ထိခိုက်သေဆုံးမှုများ ရှိ",
+    "video_id": "wRRG1Fyh-F8",
+    "published": "2026-10-06T04:12:23+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "04:12:23",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=wRRG1Fyh-F8"
+  },
+  {
+    "title": "ငွေဈေး ရွှေဈေး (၆ ရက် အောက်တိုဘာလ ၂၀၂၆ မနက်ပိုင်း)",
+    "video_id": "RhdgxN6XSTU",
+    "published": "2026-10-06T04:09:12+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "04:09:12",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=RhdgxN6XSTU"
+  },
+  {
+    "title": "Khit Thit Morning News | 6 October 2026",
+    "video_id": "3SK06cZnUsk",
+    "published": "2026-10-06T02:00:34+00:00",
+    "channel": "Khit Thit Media",
+    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
+    "time": "02:00:34",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=3SK06cZnUsk"
+  },
+  {
+    "title": "အမေရိကန် အစိုးရက နှစ် ၂၀ ကျော်ကြာ ကမ္ဘာကို လိမ်ညာထားခဲ့သလား",
+    "video_id": "3fFoFu7flzo",
+    "published": "2026-10-06T00:30:07+00:00",
+    "channel": "Mratt Channel",
+    "channel_id": "UCfi9cXgZK2YXPAqyyf4mAPg",
+    "time": "00:30:07",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=3fFoFu7flzo"
+  },
+  {
+    "title": "Mobile boat clinics bring healthcare to India's remote river islands",
+    "video_id": "lB0PnkeDmFo",
+    "published": "2026-10-06T00:00:27+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "00:00:27",
+    "date": "2026-10-06",
+    "youtube_link": "https://www.youtube.com/watch?v=lB0PnkeDmFo"
+  },
+  {
+    "title": "စိတ်ဖိစီးမှုကို ဘယ်လိုရင်ဆိုင်ကျော်ဖြတ်မလဲ? (စိတ်ကျန်းမာရေး အသိပညာ)",
+    "video_id": "NV1G0xRdfUI",
+    "published": "2026-10-05T23:47:00+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "23:47:00",
+    "date": "2026-10-05",
+    "youtube_link": "https://www.youtube.com/watch?v=NV1G0xRdfUI"
+  },
+  {
     "title": "တအာင်းဘာသာနဲ့ တင်ဆက်ပေးနေတဲ့ ရွှေဖီမြေရဲ့ ရုပ်သံအစီအစဉ် I 5 October 2026",
     "video_id": "KOgxxSxFrmA",
     "published": "2026-10-05T17:21:11+00:00",
