@@ -1,5 +1,395 @@
 [
   {
+    "title": "ရန်ကုန်မြို့တွင်း ယာဉ်ရပ်နားခ ကောက်ခံမှုကြောင့် ပြည်သူတွေ အခက်အခဲ ပိုကြုံလာ- DVB News",
+    "video_id": "SsBdnBOAxO4",
+    "published": "2026-11-03T14:30:11+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "14:30:11",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=SsBdnBOAxO4"
+  },
+  {
+    "title": "ဘီဘီစီမြန်မာပိုင်း ရေဒီယိုအစီအစဥ်",
+    "video_id": "4GVHzzq1lAo",
+    "published": "2026-11-03T14:07:17+00:00",
+    "channel": "BBC News မြန်မာ",
+    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
+    "time": "14:07:17",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=4GVHzzq1lAo"
+  },
+  {
+    "title": "အင်းတော်စစ်ကြောင်း ကျောင်းကုန်းလမ်းဆုံရောက် ရွာတချိူ့ မီးရှို့ခံရ- DVB News",
+    "video_id": "M4VtkZhqnS8",
+    "published": "2026-11-03T14:00:08+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "14:00:08",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=M4VtkZhqnS8"
+  },
+  {
+    "title": "DVB TV နေ့စဉ်သတင်း အနှစ်ချုပ် - Daily News Briefing (03.11.2026)",
+    "video_id": "ePq9KWhe8Ak",
+    "published": "2026-11-03T13:30:17+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "13:30:17",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=ePq9KWhe8Ak"
+  },
+  {
+    "title": "နိုဝင်ဘာလ ၃ ရက်၊ ည ၇ နာရီ ၊ The Mizzima Primetime မဇ္စျိမသတင်းအစီအစဥ်",
+    "video_id": "Td_6kzqfZ2A",
+    "published": "2026-11-03T13:27:24+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "13:27:24",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=Td_6kzqfZ2A"
+  },
+  {
+    "title": "NLD အပါ ဖက်ဒရယ်ယူနစ်လွှတ်တော်များနှင့် ကြားကာလအစိုးရများ အာဆီယံထံ အိတ်ဖွင့်ပေးစာ ပေးပို့",
+    "video_id": "dhD9yLjQqtY",
+    "published": "2026-11-03T13:26:15+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "13:26:15",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=dhD9yLjQqtY"
+  },
+  {
+    "title": "အမေရိကန်ရဲ့  မြန်မာဆိုင်ရာ မူဝါဒသစ်တွေထုတ်ပြန် -ဘီဘီစီမြန်မာတီဗီ-၃ နိုဝင်ဘာ ၂၀၂၆",
+    "video_id": "CPXqMABtwR8",
+    "published": "2026-11-03T13:15:00+00:00",
+    "channel": "BBC News မြန်မာ",
+    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
+    "time": "13:15:00",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=CPXqMABtwR8"
+  },
+  {
+    "title": "DVB Digital ည ၇ နာရီ သတင်း (၃ ရက် နိုဝင်ဘာလ ၂၀၂၆)",
+    "video_id": "35HRjVNZrQ0",
+    "published": "2026-11-03T12:30:17+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "12:30:17",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=35HRjVNZrQ0"
+  },
+  {
+    "title": "ထရမ့် လက်ကျန်သက်တမ်းကို ဖွင့်ဆိုမည့် ရွေးကောက်ပွဲ ကျင်းပ🌏 နိုင်ငံတကာ သတင်းများ - DVB News",
+    "video_id": "VUK8Fup1o4E",
+    "published": "2026-11-03T12:00:08+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "12:00:08",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=VUK8Fup1o4E"
+  },
+  {
+    "title": "အရေးပေါ်အခြေအနေအတွက် ၇၂ နာရီစာ အသုံးအဆောင်များ ပြင်ထားရန်ထိုင်းအစိုးရ တိုက်တွန်း",
+    "video_id": "vGQCIB3dLjY",
+    "published": "2026-11-03T11:46:10+00:00",
+    "channel": "Myanmar Now News",
+    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
+    "time": "11:46:10",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=vGQCIB3dLjY"
+  },
+  {
+    "title": "ရင်းနှီးသူမိတ်ဆွေပုံ အယောင်ဆောင် လူမှုကွန်ရက်ပေါ်က အကောင့်တု ကျားဖြန့်များ - DVBFactCheck",
+    "video_id": "swiGZ7ed-Jg",
+    "published": "2026-11-03T11:30:10+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "11:30:10",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=swiGZ7ed-Jg"
+  },
+  {
+    "title": "Khit Thit Evening News | 3 November 2026",
+    "video_id": "hMIK37NVuKE",
+    "published": "2026-11-03T11:00:15+00:00",
+    "channel": "Khit Thit Media",
+    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
+    "time": "11:00:15",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=hMIK37NVuKE"
+  },
+  {
+    "title": "လားရှိုးထောင်ဖောက်ပြီး လွတ်မြောက်လာတဲ့ နိုင်ကျဉ်းတွေ အထောက်အထား လိုအပ်နေ- DVB News",
+    "video_id": "85ea8QskN5E",
+    "published": "2026-11-03T10:59:48+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:59:48",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=85ea8QskN5E"
+  },
+  {
+    "title": "နိုဝင်ဘာလ ၃ ရက်နေ့၊ ညနေ ၅ နာရီထိ နောက်ဆုံးရငွေစျေးနှုန်းများ",
+    "video_id": "cprsa2xxsAQ",
+    "published": "2026-11-03T10:36:25+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "10:36:25",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=cprsa2xxsAQ"
+  },
+  {
+    "title": "နိုဝင်ဘာလ ၃ ရက်နေ့ ၊ ညနေ ၅ နာရီထိ နောက်ဆုံးရ စျေးနှုန်းများ",
+    "video_id": "GIsQwc02OtY",
+    "published": "2026-11-03T10:30:17+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "10:30:17",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=GIsQwc02OtY"
+  },
+  {
+    "title": "\"စစ်ဘေးကြားက အမျိုးသမီးတွေရဲ့ ရဲဝံ့တဲ့ ခြေလှမ်းများ\"",
+    "video_id": "jH-M9eG1aF0",
+    "published": "2026-11-03T10:22:22+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:22:22",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=jH-M9eG1aF0"
+  },
+  {
+    "title": "ဒီဗွီဘီ သတင်း ပေါ့ကတ်စ် (၃ ရက် နိုဝင်ဘာ ၂၀၂၆) - DVB Newsbreak",
+    "video_id": "oY_sZE4kNH8",
+    "published": "2026-11-03T10:14:11+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:14:11",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=oY_sZE4kNH8"
+  },
+  {
+    "title": "ကျောင်းဆရာဘဝကနေ ထိုင်းရွှေ့ပြောင်းအလုပ်သမားဘဝသို့",
+    "video_id": "eCGw8qjJWlw",
+    "published": "2026-11-03T10:10:56+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "10:10:56",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=eCGw8qjJWlw"
+  },
+  {
+    "title": "HIV ကာကွယ်ဆေးသစ်တမျိုးကို အမေရိကန် FDA ယာယီခွင့်ပြု",
+    "video_id": "Uh1nob3o4lg",
+    "published": "2026-11-03T10:03:13+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:03:13",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=Uh1nob3o4lg"
+  },
+  {
+    "title": "DVB TV ညနေခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE (၃ ရက် နိုဝင်ဘာလ ၂၀၂၆)",
+    "video_id": "PmOMiumjMHo",
+    "published": "2026-11-03T10:02:35+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:02:35",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=PmOMiumjMHo"
+  },
+  {
+    "title": "NLD နဲ့ ကြားကာလအစိုးရအဖွဲ့တွေ အာဆီယံခေါင်းဆောင်တွေဆီ အိတ်ဖွင့်ပေးစာ ပေးပို့- DVB News",
+    "video_id": "0SDlTVXu0Is",
+    "published": "2026-11-03T10:00:33+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "10:00:33",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=0SDlTVXu0Is"
+  },
+  {
+    "title": "ကျောင်းဆရာဘဝကနေ ထိုင်းရွှေ့ပြောင်းအလုပ်သမားဘဝသို့",
+    "video_id": "7kNsRWukDu8",
+    "published": "2026-11-03T10:00:04+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "10:00:04",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=7kNsRWukDu8"
+  },
+  {
+    "title": "ထရမ့် လက်ကျန်သက်တမ်းကို ဖွင့်ဆိုမည့် ရွေးကောက်ပွဲ ကျင်းပ",
+    "video_id": "R8wAdkKKYsw",
+    "published": "2026-11-03T09:35:41+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "09:35:41",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=R8wAdkKKYsw"
+  },
+  {
+    "title": "(ရခိုင်) တိုင်းရင်းသားဘာသာ သတင်းအစီအစဉ် - DVB",
+    "video_id": "H-LI4C8239g",
+    "published": "2026-11-03T09:34:34+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "09:34:34",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=H-LI4C8239g"
+  },
+  {
+    "title": "ရန်ကုန်တွင် \"FREE HER, FREE THEM ALL\" လှုပ်ရှားမှု ပြုလုပ်ခဲ့သည့်အဖွဲ့လုံခြုံရေး ကြိုတင်ပြင်ဆင်ခဲ့",
+    "video_id": "3TUcab9mzeU",
+    "published": "2026-11-03T09:13:38+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "09:13:38",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=3TUcab9mzeU"
+  },
+  {
+    "title": "ငွေဈေး ရွှေဈေး (၃ ရက် နိုဝင်ဘာလ ၂၀၂၆ ညနေပိုင်း)",
+    "video_id": "Tj9M4J6P1fg",
+    "published": "2026-11-03T09:09:42+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "09:09:42",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=Tj9M4J6P1fg"
+  },
+  {
+    "title": "ရုရှားလေကြောင်းတိုက်ခိုက်မှုကြောင့် ယူကရိန်းရှိ အကူအညီပေးရေးစင်တာတွင် ၂၆ ဦး သေဆုံး",
+    "video_id": "J3SaGsPXesI",
+    "published": "2026-11-03T08:18:03+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:18:03",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=J3SaGsPXesI"
+  },
+  {
+    "title": "ရုရှားလေကြောင်းတိုက်ခိုက်မှုကြောင့် ယူကရိန်းရှိ အကူအညီပေးရေးစင်တာတွင် ၂၆ ဦး သေဆုံး",
+    "video_id": "NYZhxTuLs_M",
+    "published": "2026-11-03T08:15:00+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:15:00",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=NYZhxTuLs_M"
+  },
+  {
+    "title": "သောက်သုံးရေတွင် နိုက်ထရိတ်ပါဝင်မှု သတ်မှတ်ချက် ပြန်လည်သုံးသပ်ရန် WHO ကို တိုက်တွန်း",
+    "video_id": "ihqu22uI9Qw",
+    "published": "2026-11-03T08:07:35+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:07:35",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=ihqu22uI9Qw"
+  },
+  {
+    "title": "နီပေါ၊ ဧဝရတ်တောင်တွင် ရဟတ်ယာဉ် ၂ စင်း တိုက်မိပြီး ခရီးသွားအချို့ ထိခိုက်သေဆုံး",
+    "video_id": "nmbufF1JsQY",
+    "published": "2026-11-03T08:03:22+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:03:22",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=nmbufF1JsQY"
+  },
+  {
+    "title": "သောက်သုံးရေတွင် နိုက်ထရိတ်ပါဝင်မှု သတ်မှတ်ချက် ပြန်လည်သုံးသပ်ရန် WHO ကို တိုက်တွန်း",
+    "video_id": "nlEYAtYntfE",
+    "published": "2026-11-03T08:02:43+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "08:02:43",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=nlEYAtYntfE"
+  },
+  {
+    "title": "ချန်ပီယံလိဂ်ဖလားနဲ့ လဲလှယ်လို့ရရင် Ballon d'Or ဆုကို စွန့်လွှတ်မယ်လို့ ဟာရီကိန်း ပြော",
+    "video_id": "NQrqt7aSphk",
+    "published": "2026-11-03T07:16:48+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "07:16:48",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=NQrqt7aSphk"
+  },
+  {
+    "title": "Khit Thit Afternoon News | 3 November 2026",
+    "video_id": "fQ6mfu8ElTw",
+    "published": "2026-11-03T06:00:11+00:00",
+    "channel": "Khit Thit Media",
+    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
+    "time": "06:00:11",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=fQ6mfu8ElTw"
+  },
+  {
+    "title": "'A lot of hardship': Gaza sheep herders devastated by war",
+    "video_id": "B1kbZ0FHkEY",
+    "published": "2026-11-03T05:19:41+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "05:19:41",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=B1kbZ0FHkEY"
+  },
+  {
+    "title": "တရုတ်က စက်ရုပ်တွေရဲ့ တောင်တက် ပြိုင်ပွဲ #စက်ရုပ် #တရုတ်",
+    "video_id": "LjFuPfYhmgM",
+    "published": "2026-11-03T04:00:21+00:00",
+    "channel": "BBC News မြန်မာ",
+    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
+    "time": "04:00:21",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=LjFuPfYhmgM"
+  },
+  {
+    "title": "ရုရှားလေကြောင်းတိုက်ခိုက်မှုကြောင့် ယူကရိန်းရှိ အကူအညီပေးရေးစင်တာတွင် ၂၆ ဦး သေဆုံး",
+    "video_id": "vof3oSWKmWA",
+    "published": "2026-11-03T03:58:44+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "03:58:44",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=vof3oSWKmWA"
+  },
+  {
+    "title": "ရခိုင် ၄မြို့နယ်မှာ အာဏာသိမ်းစစ်တပ်ဗုံးကြဲမှုကြောင့် လူတစ်ဒါဇင် သေဆုံး",
+    "video_id": "tHUtR48i2YI",
+    "published": "2026-11-03T03:23:52+00:00",
+    "channel": "Myanmar Now News",
+    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
+    "time": "03:23:52",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=tHUtR48i2YI"
+  },
+  {
+    "title": "Khit Thit Morning News | 3 November 2026",
+    "video_id": "UO1Zlss5uXU",
+    "published": "2026-11-03T02:00:16+00:00",
+    "channel": "Khit Thit Media",
+    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
+    "time": "02:00:16",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=UO1Zlss5uXU"
+  },
+  {
+    "title": "ကြားဖြတ်ရွေးကောက်ပွဲက ထရမ့်အတွက် ဘယ်လိုအရေးပါလဲ - BBC News မြန်မာ",
+    "video_id": "2_Jcj8Pqxng",
+    "published": "2026-11-03T01:00:36+00:00",
+    "channel": "BBC News မြန်မာ",
+    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
+    "time": "01:00:36",
+    "date": "2026-11-03",
+    "youtube_link": "https://www.youtube.com/watch?v=2_Jcj8Pqxng"
+  },
+  {
     "title": "ကိုယ်ပိုင်ဂျက်လေယာဥ် မြို့ထဲလမ်းပေါ်ပျက်ကျ - BBC News မြန်မာ",
     "video_id": "opRbK8C6J0w",
     "published": "2026-11-02T17:01:42+00:00",
@@ -1608,395 +1998,5 @@
     "time": "05:00:03",
     "date": "2026-10-30",
     "youtube_link": "https://www.youtube.com/watch?v=wi9qObihPmE"
-  },
-  {
-    "title": "DVB Digital မနက် ၁၁ နာရီ သတင်း (၃၀ ရက် အောက်တိုဘာလ ၂၀၂၆)",
-    "video_id": "pUedvpwkvEo",
-    "published": "2026-10-30T04:30:09+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "04:30:09",
-    "date": "2026-10-30",
-    "youtube_link": "https://www.youtube.com/watch?v=pUedvpwkvEo"
-  },
-  {
-    "title": "ဘူတန်တွင် ရေခဲမြစ်ရေကန် ရေလျှံထွက်မှုကြောင့် ရေကြီးရေလျှံ",
-    "video_id": "3fNG3Q2zMmM",
-    "published": "2026-10-30T03:50:02+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "03:50:02",
-    "date": "2026-10-30",
-    "youtube_link": "https://www.youtube.com/watch?v=3fNG3Q2zMmM"
-  },
-  {
-    "title": "မြန်မာနယ်စပ် တိုက်ပွဲများကြောင့် မဲဆောက်ဘက် ကျည် ကျရောက်၍ ထိုင်းစစ်တပ် သတိပေးပစ်ခတ်",
-    "video_id": "ajTBiycvKRI",
-    "published": "2026-10-30T02:11:36+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "02:11:36",
-    "date": "2026-10-30",
-    "youtube_link": "https://www.youtube.com/watch?v=ajTBiycvKRI"
-  },
-  {
-    "title": "Khit Thit Morning News | 30  October 2026",
-    "video_id": "8QTwrGsItGU",
-    "published": "2026-10-30T02:00:06+00:00",
-    "channel": "Khit Thit Media",
-    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
-    "time": "02:00:06",
-    "date": "2026-10-30",
-    "youtube_link": "https://www.youtube.com/watch?v=8QTwrGsItGU"
-  },
-  {
-    "title": "မိုးရွာလာလို့ မီးသတ်သမားတွေပျော် - BBC News မြန်မာ",
-    "video_id": "2z_xjiTodww",
-    "published": "2026-10-30T01:00:12+00:00",
-    "channel": "BBC News မြန်မာ",
-    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
-    "time": "01:00:12",
-    "date": "2026-10-30",
-    "youtube_link": "https://www.youtube.com/watch?v=2z_xjiTodww"
-  },
-  {
-    "title": "#Obama blasts #Trump’s ‘chaos and cruelty’ ahead of #US midterms",
-    "video_id": "aHb4J6kOPuQ",
-    "published": "2026-10-29T21:20:25+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "21:20:25",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=aHb4J6kOPuQ"
-  },
-  {
-    "title": "အောက်တိုဘာလ ၃၀ ရက်၊ သောကြာနေ့ မနက်ပိုင်း မဇ္ဈိမရေဒီယိုအစီအစဉ်",
-    "video_id": "EzKy7vrC0-8",
-    "published": "2026-10-29T16:53:08+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "16:53:08",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=EzKy7vrC0-8"
-  },
-  {
-    "title": "နေပြည်တော်သမ္မတကို ဦးတည်တဲ့ ရာဇဝတ်မှုဆိုင်ရာ တိုင်ကြားမှု ဒိန်းမတ်နိုင်ငံထဲ ရှိလာ - BBC News မြန်မာ",
-    "video_id": "ZNvMctNmcM0",
-    "published": "2026-10-29T15:16:10+00:00",
-    "channel": "BBC News မြန်မာ",
-    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
-    "time": "15:16:10",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=ZNvMctNmcM0"
-  },
-  {
-    "title": "အာဆီယံအထူးကိုယ်စားလှယ် ခရီးစဉ်ကြောင့် အကူအညီတွေပိုရဖို့ စစ်ရှောင်တွေမျှော်လင့်- DVB News",
-    "video_id": "SinYL4zmp1c",
-    "published": "2026-10-29T15:00:11+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "15:00:11",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=SinYL4zmp1c"
-  },
-  {
-    "title": "DVB Digital မနက် ၇ နာရီ သတင်း (၃၀ ရက် အောက်တိုဘာလ ၂၀၂၆)",
-    "video_id": "fWbrrGvJ8zw",
-    "published": "2026-10-29T14:33:52+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "14:33:52",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=fWbrrGvJ8zw"
-  },
-  {
-    "title": "Today Top Stories 29 October",
-    "video_id": "cvG523cwu8U",
-    "published": "2026-10-29T14:30:37+00:00",
-    "channel": "Khit Thit Media",
-    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
-    "time": "14:30:37",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=cvG523cwu8U"
-  },
-  {
-    "title": "ဗန်းမော်မှာ KIA ဘက်က မိုးစိန်းကျွန်းကို တိုက်ခိုက်၊ စစ်တပ်က မံစီကို ထိုးစစ်ဆင်ဖို့ပြင်- DVB News",
-    "video_id": "vLnHBd9MNWY",
-    "published": "2026-10-29T14:30:10+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "14:30:10",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=vLnHBd9MNWY"
-  },
-  {
-    "title": "#KingCharles III dances during traditional parade in #Bahamas",
-    "video_id": "hMIBQETdu9k",
-    "published": "2026-10-29T14:26:58+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "14:26:58",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=hMIBQETdu9k"
-  },
-  {
-    "title": "မဏိပူရ်နယ်စပ်က မြန်မာစစ်ရှောင်တွေ စားဝတ်နေရေး အခက်အခဲတွေ့နေ- DVB News",
-    "video_id": "sy2hG1OxzY0",
-    "published": "2026-10-29T14:00:08+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "14:00:08",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=sy2hG1OxzY0"
-  },
-  {
-    "title": "DVB TV နေ့စဉ်သတင်း အနှစ်ချုပ် - Daily News Briefing (29.10.2026)",
-    "video_id": "40lM4w4ERb8",
-    "published": "2026-10-29T13:30:08+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "13:30:08",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=40lM4w4ERb8"
-  },
-  {
-    "title": "ဘီဘီစီမြန်မာတီဗီ",
-    "video_id": "UgdP-3uDxCk",
-    "published": "2026-10-29T13:15:00+00:00",
-    "channel": "BBC News မြန်မာ",
-    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
-    "time": "13:15:00",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=UgdP-3uDxCk"
-  },
-  {
-    "title": "အောက်တိုဘာ ၂၉ ရက် ၊ ည ၇ နာရီ မဇ္ဈိမ သတင်းအစီအစဉ်",
-    "video_id": "fdx_HYdpOSw",
-    "published": "2026-10-29T12:42:40+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "12:42:40",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=fdx_HYdpOSw"
-  },
-  {
-    "title": "DVB Digital ည ၇ နာရီ သတင်း (၂၉ ရက် အောက်တိုဘာလ ၂၀၂၆)",
-    "video_id": "MPqpby9FJUU",
-    "published": "2026-10-29T12:30:07+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "12:30:07",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=MPqpby9FJUU"
-  },
-  {
-    "title": "ဘီဘီစီမြန်မာပိုင်း ရေဒီယိုအစီအစဥ်",
-    "video_id": "o549vjQvEfg",
-    "published": "2026-10-29T12:29:30+00:00",
-    "channel": "BBC News မြန်မာ",
-    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
-    "time": "12:29:30",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=o549vjQvEfg"
-  },
-  {
-    "title": "အီလွန်မက်စ်ကို ဉာဏ်ကြီးရှင်အဖြစ် ပူတင်ချီးကျူး🌏 နိုင်ငံတကာ သတင်းများ - DVB News",
-    "video_id": "AxAcYknsYq4",
-    "published": "2026-10-29T12:00:09+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "12:00:09",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=AxAcYknsYq4"
-  },
-  {
-    "title": "အောက်တိုဘာ ၂၉ ရက်၊ ည ၇ နာရီ၊ The Mizzima Primetime မဇ္စျိမသတင်းအစီအစဥ်",
-    "video_id": "978pCrUj3wM",
-    "published": "2026-10-29T11:56:57+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "11:56:57",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=978pCrUj3wM"
-  },
-  {
-    "title": "အာမေးနီးယား လွှတ်တော်အတွင်း အာဏာရပါတီနှင့် အတိုက်အခံအမတ်များ လုံးထွေးသတ်ပုတ်",
-    "video_id": "ER_Vqz7E3T4",
-    "published": "2026-10-29T11:10:35+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "11:10:35",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=ER_Vqz7E3T4"
-  },
-  {
-    "title": "အင်းတော်က ထွက်လာတဲ့စစ်ကြောင်း ၂ခုလုံး ပျက်သွားတဲ့အထိ တိုက်ခိုက်ခံရ- DVB News",
-    "video_id": "-Eh0kfupdUM",
-    "published": "2026-10-29T11:07:11+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "11:07:11",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=-Eh0kfupdUM"
-  },
-  {
-    "title": "DVB TV 📺 နိုင်ငံတကာ သတင်း  🌎  (World News Morning October 30th)  📣",
-    "video_id": "N3PU6AL4wI8",
-    "published": "2026-10-29T11:02:37+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "11:02:37",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=N3PU6AL4wI8"
-  },
-  {
-    "title": "Khit Thit Evening News | 29 October 2026",
-    "video_id": "J5E0qGE1YDM",
-    "published": "2026-10-29T11:00:34+00:00",
-    "channel": "Khit Thit Media",
-    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
-    "time": "11:00:34",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=J5E0qGE1YDM"
-  },
-  {
-    "title": "အောက်တိုဘာလ ၂၉ ရက်နေ့၊ ညနေ ၅ နာရီထိ နောက်ဆုံးရငွေစျေးနှုန်းများ",
-    "video_id": "muiWisWkOs0",
-    "published": "2026-10-29T10:35:31+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "10:35:31",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=muiWisWkOs0"
-  },
-  {
-    "title": "အိန္ဒိယတွင် ဆိုင်ကလုန်းမုန်တိုင်းကြောင့် ၇ ဦးသေဆုံး၊ စိုက်ပျိုးမြေ ဟက်တာ ၂၂၀, ၀၀၀  ကျော် ပျက်စီး",
-    "video_id": "Ac0dg42aZ-g",
-    "published": "2026-10-29T10:31:07+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "10:31:07",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=Ac0dg42aZ-g"
-  },
-  {
-    "title": "အောက်တိုဘာ ၂၉ ရက်နေ့ ၊ ညနေ ၅ နာရီထိ နောက်ဆုံးရ စျေးနှုန်းများ",
-    "video_id": "iEJ7BQqNIB0",
-    "published": "2026-10-29T10:30:10+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "10:30:10",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=iEJ7BQqNIB0"
-  },
-  {
-    "title": "အိန္ဒိယတွင် ဆိုင်ကလုန်းမုန်တိုင်းကြောင့် ၇ ဦးသေဆုံး၊ စိုက်ပျိုးမြေ ဟက်တာ ၂၂၀, ၀၀၀  ကျော် ပျက်စီး",
-    "video_id": "MLfbg2p4lWA",
-    "published": "2026-10-29T10:28:55+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "10:28:55",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=MLfbg2p4lWA"
-  },
-  {
-    "title": "စပိန်မှာ မြန်နှုန်းမြင့်ရထားနှစ်စီး တိုက်မိပြီး လူ ၆၈ ဦးထက်မနည်း သေဆုံး",
-    "video_id": "EQ1GiSyTuMI",
-    "published": "2026-10-29T10:12:54+00:00",
-    "channel": "Myanmar Now News",
-    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
-    "time": "10:12:54",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=EQ1GiSyTuMI"
-  },
-  {
-    "title": "DVB TV ညနေခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE (၂၉ ရက် အောက်တိုဘာလ ၂၀၂၆)",
-    "video_id": "MDyoV3iLODg",
-    "published": "2026-10-29T09:59:39+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:59:39",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=MDyoV3iLODg"
-  },
-  {
-    "title": "ဆူပူအုံကြွမှုတွေကို ပြင်သစ်စစ်တပ်က ပစ်ခတ်တယ်ဆိုတဲ့ ရုပ်သံဖိုင်အမှား (ရုပ်သံ)",
-    "video_id": "H3ATcjy5grA",
-    "published": "2026-10-29T09:55:10+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "09:55:10",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=H3ATcjy5grA"
-  },
-  {
-    "title": "စပိန်နိုင်ငံတွင် အမြန်ရထား တိုက်မိမှုဖြစ်ပွားရာ လူ ၇၀ နီးပါး သေဆုံးပြီး ၁၀၀ ကျော် ဒဏ်ရာရရှိ",
-    "video_id": "_MUKANklKKM",
-    "published": "2026-10-29T09:49:54+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "09:49:54",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=_MUKANklKKM"
-  },
-  {
-    "title": "စပိန်နိုင်ငံတွင် အမြန်ရထား တိုက်မိမှုဖြစ်ပွားရာ လူ ၇၀ နီးပါး သေဆုံးပြီး ၁၀၀ ကျော် ဒဏ်ရာရရှိ",
-    "video_id": "Jo6QjvgMju0",
-    "published": "2026-10-29T09:46:26+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "09:46:26",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=Jo6QjvgMju0"
-  },
-  {
-    "title": "ငွေဈေး ရွှေဈေး (၂၉ ရက် အောက်တိုဘာလ ၂၀၂၆ ညနေပိုင်း)",
-    "video_id": "TbTEpqGhR9U",
-    "published": "2026-10-29T09:45:28+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:45:28",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=TbTEpqGhR9U"
-  },
-  {
-    "title": "စိတ်ကျန်းမာရေးနေ့အကြောင်း (အပိုင်း ၂) 📣 DVB Health",
-    "video_id": "aXU1LGmb1wk",
-    "published": "2026-10-29T09:41:26+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:41:26",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=aXU1LGmb1wk"
-  },
-  {
-    "title": "ကော့မှူး၊ ကျိုက်ထော်မြောက်ကျေးရွာ မီးလောင်မှု  တာဝန်ရှိသူတွေ ပူးပေါင်းပြီး သက်သေဖျောက် ဖုံးဖိထားမှု",
-    "video_id": "lrY8rPu35lU",
-    "published": "2026-10-29T09:39:41+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "09:39:41",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=lrY8rPu35lU"
-  },
-  {
-    "title": "ဗင်နီဇွဲလားနိုင်ငံ အမေရိကန်ပြည်နယ် ဖြစ်လာနိုင်ဟု ထရမ့် ပြော - DVB News",
-    "video_id": "b-tE97MX4c8",
-    "published": "2026-10-29T09:38:05+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:38:05",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=b-tE97MX4c8"
-  },
-  {
-    "title": "ဥရောပတစ်လွှားမှာ Gen Z တွေ ဦးဆောင်ဆန္ဒပြ",
-    "video_id": "v7ARxnO7dpk",
-    "published": "2026-10-29T09:37:57+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:37:57",
-    "date": "2026-10-29",
-    "youtube_link": "https://www.youtube.com/watch?v=v7ARxnO7dpk"
   }
 ]
