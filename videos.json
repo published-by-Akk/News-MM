@@ -1,5 +1,25 @@
 [
   {
+    "title": "PVTV - တပတ်အတွင်း သတင်းဒိုင်ဂျက် (8 November 2026)",
+    "video_id": "fhBQPBf5RFI",
+    "published": "2026-11-08T19:29:00+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "19:29:00",
+    "date": "2026-11-08",
+    "youtube_link": "https://www.youtube.com/watch?v=fhBQPBf5RFI"
+  },
+  {
+    "title": "ကယန်း ကယောတိုင်းရင်းသူလေးရဲ့ ဘဝတဆစ်ချိုး - DVB Feature",
+    "video_id": "FUbtlGZf8CE",
+    "published": "2026-11-08T19:23:45+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "19:23:45",
+    "date": "2026-11-08",
+    "youtube_link": "https://www.youtube.com/watch?v=FUbtlGZf8CE"
+  },
+  {
     "title": "ကဗျာဆရာ ငြိမ်းဝေရဲ့ “ဒုံသမိချောင်းပေါ်က ကြယ်နီ” စာအုပ် မဲဆောက်မှာ မိတ်ဆက် - DVB News",
     "video_id": "ZebZdAZo6HI",
     "published": "2026-11-08T15:30:16+00:00",
@@ -18,6 +38,16 @@
     "time": "15:00:08",
     "date": "2026-11-08",
     "youtube_link": "https://www.youtube.com/watch?v=dg64yvVo5OA"
+  },
+  {
+    "title": "DVB Digital မနက် ၇ နာရီ သတင်း (၉ရက် နိုဝင်ဘာလ ၂၀၂၆)",
+    "video_id": "iu38l4VMTwI",
+    "published": "2026-11-08T14:47:48+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "14:47:48",
+    "date": "2026-11-08",
+    "youtube_link": "https://www.youtube.com/watch?v=iu38l4VMTwI"
   },
   {
     "title": "နိုဝင်ဘာလ ၉ ရက်၊ တနင်္လာနေ့ မနက်ပိုင်း မဇ္ဈိမရေဒီယိုအစီအစဥ်",
@@ -1968,35 +1998,5 @@
     "time": "10:16:54",
     "date": "2026-11-04",
     "youtube_link": "https://www.youtube.com/watch?v=a8jfa2BPbEE"
-  },
-  {
-    "title": "အမေရိကန်ရဲ့ မူဝါဒသစ်မှာ မြန်မာ့ဒီမိုကရေစီထက် သယံဇာတနဲ့ ကိုယ်ပိုင်အကျိုးစီးပွားက ရှေ့တန်းရောက်လာသလား။",
-    "video_id": "KAXsJY0ZJOs",
-    "published": "2026-11-04T10:11:16+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "10:11:16",
-    "date": "2026-11-04",
-    "youtube_link": "https://www.youtube.com/watch?v=KAXsJY0ZJOs"
-  },
-  {
-    "title": "DVB TV ညနေခင်း သတင်း တိုက်ရိုက်ထုတ်လွှင့်ချက် #LIVE (၄ ရက် နိုဝင်ဘာလ ၂၀၂၆)",
-    "video_id": "aj1bAe-Ium4",
-    "published": "2026-11-04T10:10:52+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "10:10:52",
-    "date": "2026-11-04",
-    "youtube_link": "https://www.youtube.com/watch?v=aj1bAe-Ium4"
-  },
-  {
-    "title": "ဒီဗွီဘီ သတင်း ပေါ့ကတ်စ် (၄ ရက် နိုဝင်ဘာ ၂၀၂၆) - DVB Newsbreak",
-    "video_id": "Q8Y1xV_Hrms",
-    "published": "2026-11-04T10:09:30+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "10:09:30",
-    "date": "2026-11-04",
-    "youtube_link": "https://www.youtube.com/watch?v=Q8Y1xV_Hrms"
   }
 ]
