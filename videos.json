@@ -1,5 +1,85 @@
 [
   {
+    "title": "ဦးမင်းအောင်လှိုင်ကို အာဆီယံ ဆက်ကန့်သတ်ထားမယ်",
+    "video_id": "8eWEC7Wtm5w",
+    "published": "2026-11-15T16:48:01+00:00",
+    "channel": "BBC News မြန်မာ",
+    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
+    "time": "16:48:01",
+    "date": "2026-11-15",
+    "youtube_link": "https://www.youtube.com/watch?v=8eWEC7Wtm5w"
+  },
+  {
+    "title": "ထိုင်းမှာ အေဂျင်စီတချို့က အလုပ်သမားတွေကို ဖိအားပေးပြီး စီအိုင် ပြုလုပ်ခိုင်းနေ- DVB News",
+    "video_id": "hUjyr90WfGI",
+    "published": "2026-11-15T15:30:08+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "15:30:08",
+    "date": "2026-11-15",
+    "youtube_link": "https://www.youtube.com/watch?v=hUjyr90WfGI"
+  },
+  {
+    "title": "မြိုင်ရေနံမှော်ကို ၆လနီးပါး ထိုးစစ်ဆင်ပေမယ့် မအောင်မြင်တာ ဘာကြောင့်လဲ- DVB News",
+    "video_id": "jslObEGlRZM",
+    "published": "2026-11-15T15:00:09+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "15:00:09",
+    "date": "2026-11-15",
+    "youtube_link": "https://www.youtube.com/watch?v=jslObEGlRZM"
+  },
+  {
+    "title": "အရေးယူပိတ်ဆိုမှု (Sanctions) လျှော့ချသင့်သလား၊ တိုးမြှင့်သင့်လား? - အပိုင်း(၂)",
+    "video_id": "rcMnyooajGM",
+    "published": "2026-11-15T14:30:10+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "14:30:10",
+    "date": "2026-11-15",
+    "youtube_link": "https://www.youtube.com/watch?v=rcMnyooajGM"
+  },
+  {
+    "title": "Today Top Stories  15 November",
+    "video_id": "kVBOW34HCI0",
+    "published": "2026-11-15T14:30:07+00:00",
+    "channel": "Khit Thit Media",
+    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
+    "time": "14:30:07",
+    "date": "2026-11-15",
+    "youtube_link": "https://www.youtube.com/watch?v=kVBOW34HCI0"
+  },
+  {
+    "title": "နိုဝင်ဘာလ ၁၆ ရက်၊ တနင်္လာနေ့ မနက်ပိုင်း မဇ္ဈိမရေဒီယိုအစီအစဥ်",
+    "video_id": "ly3PHXRwfMA",
+    "published": "2026-11-15T14:29:34+00:00",
+    "channel": "MizzimaTV",
+    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
+    "time": "14:29:34",
+    "date": "2026-11-15",
+    "youtube_link": "https://www.youtube.com/watch?v=ly3PHXRwfMA"
+  },
+  {
+    "title": "ဆူရတ် ထိန်းသိမ်းခံလိုက်ရပြီးနောက် နိုင်ငံဖြတ်ကျော် ဖိနှိပ်မှုအဖြစ် စိုးရိမ်- DVB News",
+    "video_id": "_gF4_f18jb0",
+    "published": "2026-11-15T14:00:09+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "14:00:09",
+    "date": "2026-11-15",
+    "youtube_link": "https://www.youtube.com/watch?v=_gF4_f18jb0"
+  },
+  {
+    "title": "DVB TV နေ့စဉ်သတင်း အနှစ်ချုပ် - Daily News Briefing (15.11.2026)",
+    "video_id": "6giBnY5ql6k",
+    "published": "2026-11-15T13:30:09+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "13:30:09",
+    "date": "2026-11-15",
+    "youtube_link": "https://www.youtube.com/watch?v=6giBnY5ql6k"
+  },
+  {
     "title": "DVB Digital ည ၇ နာရီ သတင်း (၁၅ ရက် နိုဝင်ဘာလ ၂၀၂၆)",
     "video_id": "gzV2fwqrppM",
     "published": "2026-11-15T12:30:09+00:00",
@@ -1918,85 +1998,5 @@
     "time": "11:25:09",
     "date": "2026-11-11",
     "youtube_link": "https://www.youtube.com/watch?v=bc8Ti5YL3Mg"
-  },
-  {
-    "title": "မော်စကိုမှာ လူငယ်တွေကို ဖမ်းဆီးပြီး စစ်မှုထမ်းဖို့ ဖိအားပေး (ရုပ်သံ)",
-    "video_id": "sAjYLYwscR0",
-    "published": "2026-11-11T11:13:38+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "11:13:38",
-    "date": "2026-11-11",
-    "youtube_link": "https://www.youtube.com/watch?v=sAjYLYwscR0"
-  },
-  {
-    "title": "ယူကရိန်းနဲ့စစ်ပွဲအတွက် အရှေ့တောင်အာရှ နိုင်ငံသားတွေကို ရုရှားစစ်တပ် စုဆောင်း",
-    "video_id": "NRXw3EnrECI",
-    "published": "2026-11-11T11:01:07+00:00",
-    "channel": "Myanmar Now News",
-    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
-    "time": "11:01:07",
-    "date": "2026-11-11",
-    "youtube_link": "https://www.youtube.com/watch?v=NRXw3EnrECI"
-  },
-  {
-    "title": "Khit Thit Evening News | 11 November 2026",
-    "video_id": "_7CT9It_m7w",
-    "published": "2026-11-11T11:00:39+00:00",
-    "channel": "Khit Thit Media",
-    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
-    "time": "11:00:39",
-    "date": "2026-11-11",
-    "youtube_link": "https://www.youtube.com/watch?v=_7CT9It_m7w"
-  },
-  {
-    "title": "ဒီဗွီဘီ သတင်း ပေါ့ကတ်စ် (၁၁ ရက် နိုဝင်ဘာ ၂၀၂၆) - DVB Newsbreak",
-    "video_id": "2H2rxmkJgww",
-    "published": "2026-11-11T10:45:07+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "10:45:07",
-    "date": "2026-11-11",
-    "youtube_link": "https://www.youtube.com/watch?v=2H2rxmkJgww"
-  },
-  {
-    "title": "နိုဝင်ဘာလ ၁၁ ရက်နေ့၊ ညနေ ၅ နာရီထိ နောက်ဆုံးရငွေစျေးနှုန်းများ",
-    "video_id": "uPHlhpgaXnc",
-    "published": "2026-11-11T10:39:11+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "10:39:11",
-    "date": "2026-11-11",
-    "youtube_link": "https://www.youtube.com/watch?v=uPHlhpgaXnc"
-  },
-  {
-    "title": "\" No war, No peace \" အခြေအနေအဆုံးသတ်ရန် ခါမေနီ ညွှန်ကြား- DVB News",
-    "video_id": "2_PKkFMlLNE",
-    "published": "2026-11-11T10:15:16+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "10:15:16",
-    "date": "2026-11-11",
-    "youtube_link": "https://www.youtube.com/watch?v=2_PKkFMlLNE"
-  },
-  {
-    "title": "🚨အရေးပေါ်ရိက္ခာပြင်ဆင်ဖို့ NUG က စာထုတ်ထားတယ်ဆိုတဲ့ ထုတ်ပြန်ချက်အတု🚨 - DVB Fact Check",
-    "video_id": "LC7yWRdcYqA",
-    "published": "2026-11-11T10:09:39+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "10:09:39",
-    "date": "2026-11-11",
-    "youtube_link": "https://www.youtube.com/watch?v=LC7yWRdcYqA"
-  },
-  {
-    "title": "(ကချင်) တိုင်းရင်းသားဘာသာ သတင်းအစီအစဉ် - DVB",
-    "video_id": "VHSBYXuJY5g",
-    "published": "2026-11-11T09:45:35+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "09:45:35",
-    "date": "2026-11-11",
-    "youtube_link": "https://www.youtube.com/watch?v=VHSBYXuJY5g"
   }
 ]
