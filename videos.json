@@ -1,5 +1,45 @@
 [
   {
+    "title": "ဂျီနိုဆိုက်ကို လက်မခံဘူးလို့  စစ်အာဏာရှင်ပြော- DVB News",
+    "video_id": "m-20NFTGO2Q",
+    "published": "2026-11-27T02:32:30+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "02:32:30",
+    "date": "2026-11-27",
+    "youtube_link": "https://www.youtube.com/watch?v=m-20NFTGO2Q"
+  },
+  {
+    "title": "khit Thit Morning News | 27  November 2026",
+    "video_id": "ofzXdClnd5Y",
+    "published": "2026-11-27T02:00:32+00:00",
+    "channel": "Khit Thit Media",
+    "channel_id": "UCktBWlYbAf4en-pWyyTqRwg",
+    "time": "02:00:32",
+    "date": "2026-11-27",
+    "youtube_link": "https://www.youtube.com/watch?v=ofzXdClnd5Y"
+  },
+  {
+    "title": "လမ်းမမှာ ဆီတင်ကားပေါက်ကွဲမီးလောင်လို့ လူ ၃၀ ကျော်သေ - BBC News မြန်မာ",
+    "video_id": "1sWU7fWgCzQ",
+    "published": "2026-11-27T01:00:39+00:00",
+    "channel": "BBC News မြန်မာ",
+    "channel_id": "UCd9maKo3B6jX8pCPzLa2hvA",
+    "time": "01:00:39",
+    "date": "2026-11-27",
+    "youtube_link": "https://www.youtube.com/watch?v=1sWU7fWgCzQ"
+  },
+  {
+    "title": "DVB Digital မနက် ၇ နာရီ သတင်း (၂၇ ရက် နိုဝင်ဘာလ ၂၀၂၆)",
+    "video_id": "PfI7Ml9dv1E",
+    "published": "2026-11-27T00:30:10+00:00",
+    "channel": "DVB TV News",
+    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
+    "time": "00:30:10",
+    "date": "2026-11-27",
+    "youtube_link": "https://www.youtube.com/watch?v=PfI7Ml9dv1E"
+  },
+  {
     "title": "အင်ကြင်းခေတ်စာသင်ကျောင်း ပိတ်သိမ်းမှု မဲဆောက်မှာ သတင်းစာရှင်းလင်းပွဲပြုလုပ် - DVB News",
     "video_id": "jdF8ucB-fxY",
     "published": "2026-11-26T16:30:13+00:00",
@@ -1958,45 +1998,5 @@
     "time": "08:00:40",
     "date": "2026-11-23",
     "youtube_link": "https://www.youtube.com/watch?v=GY0vOm1YbL0"
-  },
-  {
-    "title": "ငရုတ်ကောင်းမှာ ရေလုပ်သား ၃ ယောက်ကို စစ်အာဏာရှင်တပ် ဖမ်းဆီး- DVB News",
-    "video_id": "wlqJvzyvW_I",
-    "published": "2026-11-23T07:18:55+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "07:18:55",
-    "date": "2026-11-23",
-    "youtube_link": "https://www.youtube.com/watch?v=wlqJvzyvW_I"
-  },
-  {
-    "title": "မြေရှားနဲ့ ကျားဖြန့်အရေး အမေရိကန်က စစ်ကောင်စီတစ်ခုတည်းနဲ့ ကိုင်တွယ်နိုင်မလား",
-    "video_id": "AJpnMiwV36A",
-    "published": "2026-11-23T07:01:15+00:00",
-    "channel": "Myanmar Now News",
-    "channel_id": "UCKud809KUMIyNhqwuy5JeFw",
-    "time": "07:01:15",
-    "date": "2026-11-23",
-    "youtube_link": "https://www.youtube.com/watch?v=AJpnMiwV36A"
-  },
-  {
-    "title": "ကျားဖြန့်အွန်လိုင်းငွေလိမ်မှုနဲ့ တြိဂံတိုင်းစစ်ဌာနချုပ်က အရာရှိတချို့ စစ်ဆေးခံရ",
-    "video_id": "co-jcybiPzM",
-    "published": "2026-11-23T06:47:35+00:00",
-    "channel": "DVB TV News",
-    "channel_id": "UCuaRmKJLYaVMDHrnjhWUcHw",
-    "time": "06:47:35",
-    "date": "2026-11-23",
-    "youtube_link": "https://www.youtube.com/watch?v=co-jcybiPzM"
-  },
-  {
-    "title": "လူ ၉၆ ဦးလိုက်ပါလာသည့် Amtrak ရထား ဘူဒိုဇာတင်ထရပ်ကားနှင့် တိုက်မိပြီး လမ်းချော်",
-    "video_id": "x51VAVnkiB4",
-    "published": "2026-11-23T06:38:33+00:00",
-    "channel": "MizzimaTV",
-    "channel_id": "UCk9f0cLiMmtchQySOogzoig",
-    "time": "06:38:33",
-    "date": "2026-11-23",
-    "youtube_link": "https://www.youtube.com/watch?v=x51VAVnkiB4"
   }
 ]
